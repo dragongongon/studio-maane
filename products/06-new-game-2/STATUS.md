@@ -2,7 +2,7 @@
 
 ## Current Phase
 
-Round 1：7AIによる独立制作
+完了（最終統合まで終了）。最終成果物は `final/product.md`。外部公開はオーナー承認待ち。
 
 ## Theme
 
