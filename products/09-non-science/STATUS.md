@@ -4,7 +4,7 @@
 - Title: 「嘘をつくと花が咲く。」
 - Category: 非科学
 - Current phase: Round 1 準備完了
-- Round 1: 未着手
+- Round 1: 完了
 - Round 2: 未着手
 - Round 3: 未着手
 - Final: 未着手
