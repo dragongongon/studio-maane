@@ -8,6 +8,7 @@
 - Round 2: 未着手
 - Round 3: 未着手
 - Final: 未着手
+- **Story length limit: 1,000 Japanese characters or fewer**
 
 ## Process notes
 
