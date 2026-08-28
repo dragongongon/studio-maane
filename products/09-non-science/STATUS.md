@@ -7,7 +7,7 @@
 - Round 1: 完了
 - Round 2: 完了
 - Round 3: 完了
-- Final: 未着手
+- Final: 完了
 - **Story length limit: 1,000 Japanese characters or fewer**
 
 ## Process notes
