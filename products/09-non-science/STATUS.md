@@ -6,7 +6,7 @@
 - Current phase: Round 1 準備完了
 - Round 1: 完了
 - Round 2: 完了
-- Round 3: 未着手
+- Round 3: 完了
 - Final: 未着手
 - **Story length limit: 1,000 Japanese characters or fewer**
 
