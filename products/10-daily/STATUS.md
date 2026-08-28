@@ -6,7 +6,8 @@
 - Round 1執筆：ChatGPT / Gemini / Grok / Qwen / Kimi / MuseSpark
 - Claude：Round 3統合編集専任（Round 1・2不参加）
 - Phase：Round 1実施中
-- Status：ChatGPT・Gemini・Grok完了 / Qwen・Kimi・MuseSpark待ち
+- Status：ChatGPT・Gemini・Grok・MuseSpark完了 / Qwen・Kimi待ち
 - ChatGPT output：`output/chatgpt-round1.md`
 - Gemini output：`output/gemini-round1.md`
 - Grok output：`output/grok-round1.md`
+- MuseSpark output：`output/musespark-round1.md`
