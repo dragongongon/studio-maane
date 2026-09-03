@@ -1,6 +1,6 @@
 # Product 16 長編フィクション STATUS
 
-最終更新：2026-09-03（Round 8完了・Round 9準備）
+最終更新：2026-09-04（Round 8完了・Round 9準備）
 
 ## 現在のRound
 
