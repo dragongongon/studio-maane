@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>高校物理 定期テスト対策 まとめシート</title>
+<!-- MathJax: 数式を綺麗にレンダリングするライブラリ -->
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<style>
+  @page {
+    size: A4;
+    margin: 15mm;
+  }
+  body {
+    font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
+    line-height: 1.5;
+    color: #333;
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  h1 {
+    text-align: center;
+    border-bottom: 3px double #333;
+    padding-bottom: 10px;
+    margin-bottom: 25px;
+    font-size: 24px;
+  }
+  h2 {
+    background-color: #2c3e50;
+    color: #fff;
+    padding: 8px 15px;
+    font-size: 18px;
+    border-radius: 4px;
+    margin-top: 30px;
+  }
+  h3 {
+    border-left: 5px solid #2c3e50;
+    padding-left: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    color: #2c3e50;
+  }
+  .formula-box {
+    background-color: #eef7fe;
+    border: 2px solid #3498db;
+    border-radius: 6px;
+    padding: 12px 20px;
+    margin: 15px 0;
+    text-align: center;
+    font-size: 18px;
+  }
+  .point-box {
+    background-color: #fff8e7;
+    border-left: 4px solid #f39c12;
+    padding: 10px 15px;
+    margin: 10px 0;
+    font-size: 14px;
+  }
+  ul {
+    padding-left: 20px;
+  }
+  li {
+    margin-bottom: 6px;
+  }
+  .footer {
+    text-align: right;
+    font-size: 12px;
+    color: #777;
+    margin-top: 40px;
+  }
+  @media print {
+    body { background-color: #fff; padding: 0; }
+    .container { box-shadow: none; padding: 0; max-width: 100%; }
+    button { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <button onclick="window.print()" style="float: right; padding: 8px 15px; background: #27ae60; color: white; border: none; border-radius: 4px; cursor: pointer;">PDFで保存 / 印刷</button>
+  <h1>高校物理 定期テスト対策 まとめシート</h1>
+
+  <!-- 1. 摩擦力 -->
+  <h2>1. 摩擦力を受ける運動</h2>
+  
+  <h3>① 静止摩擦力</h3>
+  <p>物体が静止しているときにはたらく摩擦力。引く力などの外力とつりあっている。</p>
+  <ul>
+    <li>すべりだす直前の静止摩擦力を <strong>最大摩擦力</strong> と呼ぶ。</li>
+  </ul>
+  <div class="formula-box">
+    <strong>最大摩擦力の公式:</strong><br>
+    \( F_0 = \mu N \)
+  </div>
+  <ul>
+    <li>\( F_0 \) [N]：最大摩擦力の大きさ</li>
+    <li>\( \mu \)：静止摩擦係数（面や物体の材質による定数。接触面積にはよらない）</li>
+    <li>\( N \) [N]：垂直抗力の大きさ</li>
+  </ul>
+  <div class="point-box">
+    <strong>注意：</strong> \( F_0 = \mu N \) は「すべりだす直前」のみに使える公式です。静止中の通常の摩擦力 \( f \) はつりあい条件 \( f = F \)（外力）から求めます。
+  </div>
+
+  <h3>② 摩擦角</h3>
+  <p>板を傾けていき、物体がすべり始める直前の傾きの角 \( \theta_0 \) を摩擦角という。</p>
+  <div class="formula-box">
+    \( \mu = \tan\theta_0 \)
+  </div>
+
+  <h3>③ 動摩擦力</h3>
+  <p>物体が面上をすべっている最中にはたらく摩擦力。運動を妨げる向きにはたらく。</p>
+  <div class="formula-box">
+    <strong>動摩擦力の公式:</strong><br>
+    \( F' = \mu' N \)
+  </div>
+  <ul>
+    <li>\( F' \) [N]：動摩擦力の大きさ（すべる速度が変わっても一定）</li>
+    <li>\( \mu' \)：動摩擦係数（一般に \( \mu' < \mu \) であり、動摩擦力は最大摩擦力より小さい）</li>
+  </ul>
+
+  <!-- 2. 圧力・水圧・気圧 -->
+  <h2>2. 圧力と水圧</h2>
+
+  <h3>① 圧力</h3>
+  <p>面に対して垂直に加わる単位面積（\(1\,\text{m}^2\)）あたりの力の大きさ。</p>
+  <div class="formula-box">
+    \( p = \dfrac{F}{S} \)
+  </div>
+  <ul>
+    <li>\( p \) [Pa]：圧力（パスカル, \( 1\,\text{Pa} = 1\,\text{N/m}^2 \)）</li>
+    <li>\( F \) [N]：面に垂直にはたらく力</li>
+    <li>\( S \) [\(\text{m}^2\)]：受圧面積</li>
+  </ul>
+
+  <h3>② 水圧</h3>
+  <p>水中の深さ \( h \) における水圧。同じ深さではどの向きにも同じ大きさではたらく。</p>
+  <div class="formula-box">
+    <strong>水圧の公式:</strong><br>
+    \( p = \rho h g \)
+  </div>
+  <ul>
+    <li>\( \rho \) [\(\text{kg/m}^3\)]：水の密度</li>
+    <li>\( h \) [m]：水深</li>
+    <li>\( g \) [\(\text{m/s}^2\)]：重力加速度の大きさ</li>
+  </ul>
+  <p>大気圧 \( p_0 \) を考慮する場合の水中の全圧力 \( p' \):</p>
+  <div class="formula-box">
+    \( p' = p_0 + \rho h g \)
+  </div>
+
+  <!-- 3. 浮力 -->
+  <h2>3. 浮力（アルキメデスの原理）</h2>
+
+  <h3>① アルキメデスの原理</h3>
+  <p>流体中の物体は、それが排除している流体の重さに等しい大きさの浮力を受ける。</p>
+  <div class="formula-box">
+    <strong>浮力の公式:</strong><br>
+    \( F = \rho V g \)
+  </div>
+  <ul>
+    <li>\( F \) [N]：浮力の大きさ（鉛直上向き）</li>
+    <li>\( \rho \) [\(\text{kg/m}^3\)]：<strong>流体（水など）の密度</strong>（物体の密度ではない点に注意）</li>
+    <li>\( V \) [\(\text{m}^3\)]：物体が排除した流体の体積（水中にある部分の体積）</li>
+    <li>\( g \) [\(\text{m/s}^2\)]：重力加速度の大きさ</li>
+  </ul>
+  <div class="point-box">
+    <strong>浮力の導出原理：</strong> 物体の下面が受ける上向きの水圧による力 \( F_2 = (p_0 + \rho h_2 g)S \) と、上面が受ける下向きの水圧による力 \( F_1 = (p_0 + \rho h_1 g)S \) の差 \( F = F_2 - F_1 = \rho (h_2 - h_1) S g = \rho V g \) から求められる。
+  </div>
+
+  <div class="footer">
+    高校物理定期テスト対策シート
+  </div>
+</div>
+
+</body>
+</html>
