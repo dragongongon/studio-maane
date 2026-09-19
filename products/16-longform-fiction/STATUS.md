@@ -23,7 +23,7 @@
 
 ## スピンオフ：Product 17『結の過去』
 
-- products/17-yui-past/ で進行中（Round9まで完了）。P16 CANONを一次情報とし、P17側からP16の設定は変更しない。
+- products/17-yui-past/ で進行中（Round10まで完了）。P16 CANONを一次情報とし、P17側からP16の設定は変更しない。
 - P17側でP16 CANONとの不整合が見つかった場合は、P17側のCANON／NOT_CANONで吸収する。P16側の変更は原則発生しない。
 
 ## 情報の優先順位
