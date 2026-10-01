@@ -1,6 +1,6 @@
 # Product 18 6人の過去 STATUS
 
-最終更新：2026-09-26（Round 2完了。Discussion #46を反映。初稿v1を執筆し、Dragon承認済み）
+最終更新：2026-10-02
 
 ## 現在の状態
 
@@ -72,6 +72,10 @@ GitHubへの一式アップロード（担当：Dragon）。アップロード�
 - `discussions/Round01.md`・`discussions/Round02.md`：本文＋全コメントのマージは未実施（人間の作業。下記「Roundファイルのライフサイクル」参照）。
 - `CANON.md`／`NOT_CANON.md`／`STATUS.md`：更新版を作成済み（差し替え用に個別ファイルとして提示）。Dragonによるアップロード待ち。
 - `manuscript/`：初稿v1、話ごとに個別ファイルとして作成済み（`01-sou.md`〜`06-rika.md`）。Dragonによるアップロード待ち。
+
+## 変更履歴
+
+- 2026-10-01：CANON藤原の未完了から「3年間」を削除（P16 CANONの修正に同期）。
 
 ## 情報の優先順位
 
