@@ -45,7 +45,7 @@ Round 1（Discussion #50）：ChatGPT・Grok・MuseSpark・Qwen・Geminiの5AI�
 
 Round 2（Discussion #51）：同じ5AIが回答。Claudeは統合（Discussionへの投稿はなし）。Kimi・Microsoft Copilotは不参加。
 
-Round 3以降の参加AIは、Dragon確認待ち（Claude推奨：Round 2と同じ5AI）。
+Round 3の参加AIは、Round 2と同じ5AI（Dragon承認済み）。Claudeは統合。
 
 ## 情報優先順位
 
