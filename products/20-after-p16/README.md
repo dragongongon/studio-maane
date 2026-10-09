@@ -6,7 +6,7 @@
 
 Product 20。題名は未定。
 
-現在の段階：Round 1完了（Discussion #50）。Round 2（骨格）の前。
+現在の段階：Round 2完了（Discussion #51）。Round 3（骨格の確定）の前。
 
 Product 16『届かなかったもの』の先（時系列でP16より後）にしたいという方向性がある。ただし、時間の位置は未確定である。
 
@@ -43,7 +43,9 @@ Round 1（企画の方向・形式）→ Round 2（骨格）→ 初稿 → 矛�
 
 Round 1（Discussion #50）：ChatGPT・Grok・MuseSpark・Qwen・Geminiの5AIが回答。Claudeは叩き台の作成と統合（Discussionへの投稿はなし）。Kimi・Microsoft Copilotは不参加。
 
-Round 2以降の参加AIは、Dragon確認待ち。
+Round 2（Discussion #51）：同じ5AIが回答。Claudeは統合（Discussionへの投稿はなし）。Kimi・Microsoft Copilotは不参加。
+
+Round 3以降の参加AIは、Dragon確認待ち（Claude推奨：Round 2と同じ5AI）。
 
 ## 情報優先順位
 
