@@ -6,9 +6,9 @@
 
 Product 20。題名は未定。
 
-現在の段階：Round 3完了（Discussion #52。Dragon承認済み）。初稿v1（全4話）を作成済み（`draft/`への反映待ち）。次は、初稿の品質確認Round（Round 4）。
+現在の段階：Round 4完了（Discussion #53。Dragon承認済み）。初稿（全4話。2話・4話を修正）は`manuscript/`に反映済み。次は、題名・シリーズ名を決めるRound（Round 5）。
 
-Product 16『届かなかったもの』の先（時系列でP16より後）にしたいという方向性がある。ただし、時間の位置は未確定である。
+Product 16『届かなかったもの』の先（時系列でP16より後）にしたいという方向性がある。時間の位置は、P16 15話の翌日（8/8）で確定している（`CANON.md`参照）。
 
 ## 企画目的
 
@@ -35,7 +35,7 @@ P20を、noteで読まれる企画にする。
 
 ## 開発順序
 
-Round 1（企画の方向・形式）→ Round 2（骨格）→ Round 3（骨格の確定）→ 初稿 → 矛盾チェック（品質確認Round） → Dragon承認 → GitHub反映 → 公開判断
+Round 1（企画の方向・形式）→ Round 2（骨格）→ Round 3（骨格の確定）→ 初稿 → 矛盾チェック（品質確認Round） → Dragon承認 → GitHub反映 → 題名・シリーズ名（Round 5） → 公開判断
 
 ※上記は仮の開発順序である。
 
@@ -47,7 +47,7 @@ Round 2（Discussion #51）：同じ5AIが回答。Claudeは統合（Discussion�
 
 Round 3（Discussion #52）：同じ5AIが回答。Claudeは統合（Discussionへの投稿はなし）と、初稿v1の作成。Kimi・Microsoft Copilotは不参加。
 
-Round 4（初稿の品質確認）の参加AIは、Round 3と同じ5AI（Dragon承認済み）。Claudeは統合。
+Round 4（Discussion #53）：同じ5AIが回答。Claudeは統合（Discussionへの投稿はなし）。Kimi・Microsoft Copilotは不参加。
 
 ## 情報優先順位
 
