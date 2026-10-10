@@ -6,7 +6,7 @@
 
 Product 20。題名は未定。
 
-現在の段階：Round 3完了（Discussion #52）。初稿v1（全4話）を作成済み（`draft/`への反映待ち）。Dragonの承認待ち。
+現在の段階：Round 3完了（Discussion #52。Dragon承認済み）。初稿v1（全4話）を作成済み（`draft/`への反映待ち）。次は、初稿の品質確認Round（Round 4）。
 
 Product 16『届かなかったもの』の先（時系列でP16より後）にしたいという方向性がある。ただし、時間の位置は未確定である。
 
@@ -47,7 +47,7 @@ Round 2（Discussion #51）：同じ5AIが回答。Claudeは統合（Discussion�
 
 Round 3（Discussion #52）：同じ5AIが回答。Claudeは統合（Discussionへの投稿はなし）と、初稿v1の作成。Kimi・Microsoft Copilotは不参加。
 
-次のRound（初稿の品質確認）の参加AIは、Dragonの承認後に決める。
+Round 4（初稿の品質確認）の参加AIは、Round 3と同じ5AI（Dragon承認済み）。Claudeは統合。
 
 ## 情報優先順位
 
