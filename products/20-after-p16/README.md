@@ -1,12 +1,12 @@
 # Product 20
 
-最終更新：2026-10-09
+最終更新：2026-10-10
 
 ## 作品概要
 
 Product 20。題名は未定。
 
-現在の段階：Round 2完了（Discussion #51）。Round 3（骨格の確定）の前。
+現在の段階：Round 3完了（Discussion #52）。初稿v1（全4話）を作成済み（`draft/`への反映待ち）。Dragonの承認待ち。
 
 Product 16『届かなかったもの』の先（時系列でP16より後）にしたいという方向性がある。ただし、時間の位置は未確定である。
 
@@ -35,7 +35,7 @@ P20を、noteで読まれる企画にする。
 
 ## 開発順序
 
-Round 1（企画の方向・形式）→ Round 2（骨格）→ 初稿 → 矛盾チェック → Dragon承認 → GitHub反映 → 公開判断
+Round 1（企画の方向・形式）→ Round 2（骨格）→ Round 3（骨格の確定）→ 初稿 → 矛盾チェック（品質確認Round） → Dragon承認 → GitHub反映 → 公開判断
 
 ※上記は仮の開発順序である。
 
@@ -45,7 +45,9 @@ Round 1（Discussion #50）：ChatGPT・Grok・MuseSpark・Qwen・Geminiの5AI�
 
 Round 2（Discussion #51）：同じ5AIが回答。Claudeは統合（Discussionへの投稿はなし）。Kimi・Microsoft Copilotは不参加。
 
-Round 3の参加AIは、Round 2と同じ5AI（Dragon承認済み）。Claudeは統合。
+Round 3（Discussion #52）：同じ5AIが回答。Claudeは統合（Discussionへの投稿はなし）と、初稿v1の作成。Kimi・Microsoft Copilotは不参加。
+
+次のRound（初稿の品質確認）の参加AIは、Dragonの承認後に決める。
 
 ## 情報優先順位
 
