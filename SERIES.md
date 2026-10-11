@@ -53,23 +53,25 @@ note記事の分類は、企画番号ではなく**実際の記事タイトル�
 
 以下は既存フォルダ名に基づく索引。note記事の接頭語分類とは別の軸であり、各P番号を特定のnoteシリーズへ自動的に割り当てない。企画の詳細や成果は各フォルダ内の資料で確認する。
 
-| ID | フォルダ | 位置づけ（フォルダ名から確認できる範囲） |
-|---|---|---|
-| P01 | [01-ai-side-business-note](products/01-ai-side-business-note/) | AI副業・note企画 |
-| P02 | [02-paid-note-experiment](products/02-paid-note-experiment/) | 有料noteの実験 |
-| P03 | [03-ai-meeting](products/03-ai-meeting/) | AI会議・協働実験 |
-| P04 | [04-ai-product-development](products/04-ai-product-development/) | AI商品開発 |
-| P05 | [05-new-game](products/05-new-game/) | ゲーム企画 |
-| P06 | [06-new-game-2](products/06-new-game-2/) | ゲーム企画2 |
-| P07 | [07-daily](products/07-daily/) | 日次コンテンツ企画 |
-| P08 | [08-science](products/08-science/) | 科学系コンテンツ企画 |
-| P09 | [09-non-science](products/09-non-science/) | 非科学系コンテンツ企画 |
-| P10 | [10-daily](products/10-daily/) | 日次コンテンツ企画 |
-| P11 | [11-science](products/11-science/) | 科学系コンテンツ企画 |
-| P12 | [12-non-science](products/12-non-science/) | 非科学系コンテンツ企画 |
-| P13 | [13-daily](products/13-daily/) | 日次コンテンツ企画 |
-| P14 | [14-science](products/14-science/) | 科学系コンテンツ企画 |
-| P15 | [15-non-science](products/15-non-science/) | 非科学系コンテンツ企画 |
+| ID | フォルダ | 過去シリーズ名（タイトル接頭語ベース） | 位置づけ（フォルダ名から確認できる範囲） |
+|---|---|---|---|
+| P01 | [01-ai-side-business-note](products/01-ai-side-business-note/) | 単独記事／シリーズ名未確認 | AI副業・note企画 |
+| P02 | [02-paid-note-experiment](products/02-paid-note-experiment/) | 単独記事／シリーズ名未確認 | 有料noteの実験 |
+| P03 | [03-ai-meeting](products/03-ai-meeting/) | 単独記事／シリーズ名未確認 | AI会議・協働実験 |
+| P04 | [04-ai-product-development](products/04-ai-product-development/) | シリーズ名未確認 | AI商品開発 |
+| P05 | [05-new-game](products/05-new-game/) | 「AIから生まれた7つの物語」関連の可能性あり（未確定） | ゲーム企画 |
+| P06 | [06-new-game-2](products/06-new-game-2/) | 「AIから生まれた7つの物語」関連の可能性あり（未確定） | ゲーム企画2 |
+| P07 | [07-daily](products/07-daily/) | シリーズ名未確認 | 日次コンテンツ企画 |
+| P08 | [08-science](products/08-science/) | シリーズ名未確認 | 科学系コンテンツ企画 |
+| P09 | [09-non-science](products/09-non-science/) | シリーズ名未確認 | 非科学系コンテンツ企画 |
+| P10 | [10-daily](products/10-daily/) | シリーズ名未確認 | 日次コンテンツ企画 |
+| P11 | [11-science](products/11-science/) | シリーズ名未確認 | 科学系コンテンツ企画 |
+| P12 | [12-non-science](products/12-non-science/) | シリーズ名未確認 | 非科学系コンテンツ企画 |
+| P13 | [13-daily](products/13-daily/) | シリーズ名未確認 | 日次コンテンツ企画 |
+| P14 | [14-science](products/14-science/) | シリーズ名未確認 | 科学系コンテンツ企画 |
+| P15 | [15-non-science](products/15-non-science/) | シリーズ名未確認 | 非科学系コンテンツ企画 |
+
+※ P01〜P15は企画フォルダ名だけではnoteの正式なシリーズ名を特定できないものが多いため、未確認のものは推測で確定せず明記する。P05・P06も関連の可能性にとどめ、確定扱いしない。
 
 ## 運用ルール
 - 記事のシリーズ分類は、まずタイトル接頭語で決める。内容が似ているという理由だけで別シリーズを統合しない。
