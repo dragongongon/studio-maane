@@ -53,25 +53,25 @@ note記事の分類は、企画番号ではなく**実際の記事タイトル�
 
 以下は既存フォルダ名に基づく索引。note記事の接頭語分類とは別の軸であり、各P番号を特定のnoteシリーズへ自動的に割り当てない。企画の詳細や成果は各フォルダ内の資料で確認する。
 
-| ID | フォルダ | 過去シリーズ名（タイトル接頭語ベース） | 位置づけ（フォルダ名から確認できる範囲） |
+| ID | フォルダ | 過去シリーズ名／記事タイトル | 位置づけ |
 |---|---|---|---|
-| P01 | [01-ai-side-business-note](products/01-ai-side-business-note/) | 単独記事／シリーズ名未確認 | AI副業・note企画 |
-| P02 | [02-paid-note-experiment](products/02-paid-note-experiment/) | 単独記事／シリーズ名未確認 | 有料noteの実験 |
-| P03 | [03-ai-meeting](products/03-ai-meeting/) | 単独記事／シリーズ名未確認 | AI会議・協働実験 |
+| P01 | [01-ai-side-business-note](products/01-ai-side-business-note/) | 「AI副業は本当に稼げるのか？ 誇張なしで検証した、現実的な始め方」 | AI副業・note企画 |
+| P02 | [02-paid-note-experiment](products/02-paid-note-experiment/) | 「AIと一緒に書いた記事を売りたい話」 | 有料noteの実験 |
+| P03 | [03-ai-meeting](products/03-ai-meeting/) | 「『AI同士が会議している』と言ってきたが、正体は“交換日記”でした」 | AI会議・協働実験 |
 | P04 | [04-ai-product-development](products/04-ai-product-development/) | シリーズ名未確認 | AI商品開発 |
-| P05 | [05-new-game](products/05-new-game/) | 「AIから生まれた7つの物語」関連の可能性あり（未確定） | ゲーム企画 |
-| P06 | [06-new-game-2](products/06-new-game-2/) | 「AIから生まれた7つの物語」関連の可能性あり（未確定） | ゲーム企画2 |
-| P07 | [07-daily](products/07-daily/) | シリーズ名未確認 | 日次コンテンツ企画 |
-| P08 | [08-science](products/08-science/) | シリーズ名未確認 | 科学系コンテンツ企画 |
-| P09 | [09-non-science](products/09-non-science/) | シリーズ名未確認 | 非科学系コンテンツ企画 |
-| P10 | [10-daily](products/10-daily/) | シリーズ名未確認 | 日次コンテンツ企画 |
-| P11 | [11-science](products/11-science/) | シリーズ名未確認 | 科学系コンテンツ企画 |
-| P12 | [12-non-science](products/12-non-science/) | シリーズ名未確認 | 非科学系コンテンツ企画 |
-| P13 | [13-daily](products/13-daily/) | シリーズ名未確認 | 日次コンテンツ企画 |
-| P14 | [14-science](products/14-science/) | シリーズ名未確認 | 科学系コンテンツ企画 |
-| P15 | [15-non-science](products/15-non-science/) | シリーズ名未確認 | 非科学系コンテンツ企画 |
+| P05 | [05-new-game](products/05-new-game/) | 「AIから生まれた7つの物語」 | 「未来の不思議な道具」「新しいゲーム」などの短編シリーズ |
+| P06 | [06-new-game-2](products/06-new-game-2/) | 「AIから生まれた7つの物語」 | 「新しいゲーム２」など、同シリーズの続編企画 |
+| P07 | [07-daily](products/07-daily/) | 「AIから届いた物語」 | 日常ジャンルの短編 |
+| P08 | [08-science](products/08-science/) | 「AIから届いた物語」 | 科学ジャンルの短編 |
+| P09 | [09-non-science](products/09-non-science/) | 「AIから届いた物語」 | 非科学ジャンルの短編 |
+| P10 | [10-daily](products/10-daily/) | 「AIから届いた物語」 | 日常ジャンルの短編 |
+| P11 | [11-science](products/11-science/) | 「AIから届いた物語」 | 科学ジャンルの短編 |
+| P12 | [12-non-science](products/12-non-science/) | 「AIから届いた物語」 | 非科学ジャンルの短編 |
+| P13 | [13-daily](products/13-daily/) | 「AIから届いた物語」 | 日常ジャンルの短編 |
+| P14 | [14-science](products/14-science/) | 「AIから届いた物語」 | 科学ジャンルの短編 |
+| P15 | [15-non-science](products/15-non-science/) | 「AIから届いた物語」 | 非科学ジャンルの短編 |
 
-※ P01〜P15は企画フォルダ名だけではnoteの正式なシリーズ名を特定できないものが多いため、未確認のものは推測で確定せず明記する。P05・P06も関連の可能性にとどめ、確定扱いしない。
+※ P01〜P03はnoteエクスポートにある実際の記事タイトルを記載。P05〜P15はシリーズ接頭語と企画フォルダ名・ジャンル構成を照合した整理。P04は対応するシリーズ名を現時点で特定できないため、未確認とする。
 
 ## 運用ルール
 - 記事のシリーズ分類は、まずタイトル接頭語で決める。内容が似ているという理由だけで別シリーズを統合しない。
