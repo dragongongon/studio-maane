@@ -26,7 +26,10 @@ note記事の分類は、企画番号ではなく**実際の記事タイトル�
   - 「AIと学ぶ技術｜複数AIの会話をGitHub Discussionsに集める方法」— 下書き
   - 「AIと学ぶ技術｜AIに毎回同じ説明をしないための情報整理術」— 下書き
 - **内容**：複数AIの協働、GitHub Discussionsでの情報集約、議論の堂々巡りを防ぐ整理術など、実際に試したAI活用・技術手順を読者向けに紹介する。
-- **下書きファイル**：[第2記事「AIに毎回同じ説明をしないための情報整理術」](products/03-ai-meeting/drafts/02-information-management.md)（2026-10-12に原稿を整理。AI協働に関する記事企画の作業場所に集約）
+- **原稿・企画管理**：[`products/90-ai-to-manabu-tech/`](products/90-ai-to-manabu-tech/) に集約。
+  - [第1記事「複数AIの会話をGitHub Discussionsに集める方法」](products/90-ai-to-manabu-tech/drafts/01-github-discussions.md)
+  - [第2記事「AIに毎回同じ説明をしないための情報整理術」](products/90-ai-to-manabu-tech/drafts/02-information-management.md)
+  - 両記事とも下書き。noteへの公開はしていない。
 - **次の行動**：第1記事と第2記事の内容重複・実運用との一致・リンク・個人情報・再現性を確認し、サムネイルとタグを整える。公開可否はオーナーに確認する。公開後はインプレッション・PV・スキ・コメント・売上を記録し、反応を見て次の記事を決める。
 
 ### 「AIから生まれた7つの物語」
