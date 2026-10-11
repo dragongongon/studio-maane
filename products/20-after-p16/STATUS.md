@@ -4,7 +4,7 @@
 
 ## 現在の状態
 
-**Round 4完了（Discussion #53。2026-10-10）。Claude統合済み。結果はDragon承認済み（2026-10-10。「Claude推奨でよい」）。初稿は`manuscript/`にあり、2話・4話を修正した版を反映済み（`draft/`は`.gitkeep`のみ）。Round 5（Discussion #54。2026-10-10）も完了し、Claude統合済み。結果はDragon承認済み（2026-10-11。「Claude推奨で良い」）。シリーズ名は「祭りの日の町」。Round 6（Discussion #55）も完了し、Claude統合済み。結果はDragon承認済み（2026-10-11。「1日の公開は最大で1にする。仕事で複数公開は難しいため。それ以外はClaude推奨で良い。」）。次工程は、シリーズ紹介文・マガジン概要文・関連作品の案内文の文面のRound（Round 7）。**
+**Round 4完了（Discussion #53。2026-10-10）。Claude統合済み。結果はDragon承認済み（2026-10-10。「Claude推奨でよい」）。初稿は`manuscript/`にあり、2話・4話を修正した版を反映済み（`draft/`は`.gitkeep`のみ）。Round 5（Discussion #54。2026-10-10）も完了し、Claude統合済み。結果はDragon承認済み（2026-10-11。「Claude推奨で良い」）。シリーズ名は「祭りの日の町」。Round 6（Discussion #55）も完了し、Claude統合済み。結果はDragon承認済み（2026-10-11。「1日の公開は最大で1にする。仕事で複数公開は難しいため。それ以外はClaude推奨で良い。」）。Round 7（Discussion #56）も完了し、Claude統合済み。結果はDragon承認済み（2026-10-11。「承認」）。次工程は、サムネイル（別Round）と公開準備（公開開始日・時刻、note表示確認）。**
 
 - 初期フォルダ・ファイル：`products/20-after-p16/` 作成済み（作成担当：ChatGPT。2026-10-07）。
 - AIディスカッション：Round 1（Discussion #50。2026-10-07）、Round 2（#51。2026-10-08）、Round 3（#52。2026-10-09）を実施。参加：ChatGPT・Grok・MuseSpark・Qwen・Geminiの5AI。統合：Claude（Discussionには投稿していない）。Kimi・Microsoft Copilotは不参加。Round 1・Round 2・Round 3の結果はDragon承認済み。MuseSparkはRound 2・Round 3とも、指定された骨格の表（論点A）を含めていない。Qwenは、Round 3で指定の回答形式（①〜⑥）に従っていない（下記「Round 3サマリ」参照）。
@@ -14,7 +14,7 @@
 
 ## 現在の目的
 
-シリーズ紹介文・マガジン概要文・関連作品の案内文の文面をRound 7で比較する。公開の順序・頻度・方法と紹介文の方針は、Round 6で確定（Dragon承認済み）。題名・シリーズ名は確定（Round 5）。結は0回で確定（Dragon承認済み）。本文はRound 4で固めた（修正は2話・4話のみ）。
+Round 7の文面（紹介文・概要文・関連作品案内文）は確定（Dragon承認済み）。サムネイルと公開準備へ進む。公開の順序・頻度・方法と紹介文の方針は、Round 6で確定（Dragon承認済み）。題名・シリーズ名は確定（Round 5）。結は0回で確定（Dragon承認済み）。本文はRound 4で固めた（修正は2話・4話のみ）。
 
 ## これまでの承認事項
 
@@ -31,6 +31,7 @@ CANONの「Dragon決定」と同じ。
 - 2026-10-10：Round 4の統合結果とClaude推奨を承認（Dragon：「Claude推奨でよい」）。内容は下記「Round 4の結果」。
 - 2026-10-11：Round 5の統合結果とClaude推奨を承認（Dragon：「Claude推奨で良い」）。内容は下記「Round 5の結果」。
 - 2026-10-11：Round 6の統合結果とClaude推奨を承認（Dragon：「1日の公開は最大で1にする。仕事で複数公開は難しいため。それ以外はClaude推奨で良い。」）。内容は下記「Round 6の結果」。
+- 2026-10-11：Round 7の統合結果とClaude確定案を承認（Dragon：「承認」）。内容は下記「Round 7の結果」。
 
 ## 作業分担
 
@@ -401,6 +402,30 @@ ChatGPT・Qwenは他AI未読と申告し、同じ形（時刻順・1日1話・4�
 - P16〜19への案内は、マガジン説明欄を第一候補にする。記事末尾に置くと、4話の最後（太鼓が聞こえたまま終わる）の直後に案内文が来る。
 - 公開後は、各話のインプレッション・PV・スキを日別に記録する。
 
+## Round 7サマリ（Discussion #56）
+
+参加：ChatGPT・Grok・MuseSpark・Qwen・Geminiの5AI（2026-10-11）。統合：Claude（投稿なし）。照合には、設定3ファイルと本文4話（SHA 2548bd8f17）を使った。ChatGPTの投稿は②〜④が元のHTMLにも無い。MuseSparkは指定資料も本文も読めていない（自己申告）。
+
+### 見つかった問題
+- 「約束」「待つ」は本文と合わない（約束0件、4話は誰も待たない）。Qwenの「結との約束と読まれる」は推測。
+- Qwenの行方・伏線・核心は、Round 6で禁止した語に触れる。
+- 本文と合わない記述：Grok a1（2話の提灯・太鼓）、Qwen a1（絵筆を置く）、Gemini（完全に独立）。
+- Grok・Geminiの「町はシリーズ名のみ」の自己チェックは、(a)の文面と合わない。
+- 字数申告は実測とずれた（Grok a2：約68→44）。
+- 独立して書いたのはChatGPT・Grok（申告）のみ。Gemini a2はGrok a2と同じ型。
+
+### 利害の開示
+本文4話はClaudeの執筆。確定案もClaude単独で作成した。
+
+## Round 7の結果（Dragon承認済み。CANON・NOT_CANONに反映済み）
+
+承認：2026-10-11（Dragon：「承認」）。
+
+1. 紹介文・概要文・関連作品案内文は、CANON「Round 7で確定した方針」の文面とする。紹介文は場所なしの案。
+2. 関連作品の案内には、公開済みの作品だけを載せる。
+3. noteの一覧・スマホ表示で見え方を確認する。
+4. 次は、サムネイル（別Round）と公開準備。
+
 ## Round 6の結果（Dragon承認済み。CANON・NOT_CANONに反映済み）
 
 承認：2026-10-11（Dragon：「1日の公開は最大で1にする。仕事で複数公開は難しいため。それ以外はClaude推奨で良い。」）。
@@ -442,7 +467,9 @@ Round 4の確認事項は、2026-10-10に承認済み（「Round 4の結果」�
 - 区切り記号（「｜」など）は、noteの表示で確認。
 - Round 6の確認事項は、2026-10-11に承認済み（「Round 6の結果」）。
 - 公開開始日と公開時刻（Dragonが決める。作中の時刻には合わせない）。
-- シリーズ紹介文・マガジン概要文・関連作品の案内文の文面（Round 7で比較）。
+- Round 7の確認事項は、2026-10-11に承認済み（「Round 7の結果」）。
+- 関連作品4作のnote上の公開状況（案内文に載せるのは公開済みのみ）。
+- noteのPC・スマホ表示での文面の見え方。
 
 ## Round 4（初稿の品質確認）の論点（プロンプトに反映済み。実施済み）
 
@@ -457,10 +484,10 @@ Round 4の確認事項は、2026-10-10に承認済み（「Round 4の結果」�
 
 - Discussion #50（Round 1）・#51（Round 2）・#52（Round 3）：実施済み。
 - `discussions/Round01.md`・`Round02.md`・`Round03.md`：本文＋全コメントのマージは未実施（人間の作業）。
-- `CANON.md`／`NOT_CANON.md`／`STATUS.md`／`README.md`：Round 3の承認を反映した版が、GitHubに反映済み（2026-10-10にraw版で確認）。Round 4の承認を反映した版が、GitHubに反映済み（2026-10-11にSHA固定で確認、83158f47ec）。Round 5の承認を反映した版が、GitHubに反映済み（2026-10-11にSHA固定で確認、e80f02c96e）。Round 6の承認を反映した更新版を作成済み（差し替え用）。
+- `CANON.md`／`NOT_CANON.md`／`STATUS.md`／`README.md`：Round 3の承認を反映した版が、GitHubに反映済み（2026-10-10にraw版で確認）。Round 4の承認を反映した版が、GitHubに反映済み（2026-10-11にSHA固定で確認、83158f47ec）。Round 5の承認を反映した版が、GitHubに反映済み（2026-10-11にSHA固定で確認、e80f02c96e）。Round 6の承認を反映した版が、GitHubに反映済み（2026-10-11にSHA固定で確認、2548bd8f17）。Round 7の承認を反映した更新版を作成済み（差し替え用）。
 - Discussion #54（Round 5）：投稿済み（2026-10-10）。
 - Round 6：Discussion #55に投稿済み。5AI（ChatGPT・Grok・MuseSpark・Qwen・Gemini）が回答。統合：Claude。MuseSparkは3資料を読めなかった（「Round 6サマリ」参照）。
-- Round 7：プロンプト作成済み（2026-10-11）。未投稿。
+- Round 7：Discussion #56に投稿済み（2026-10-11）。5AI（ChatGPT・Grok・MuseSpark・Qwen・Gemini）が回答。ChatGPTは②〜④が無い。MuseSparkは資料を読めていない。統合：Claude。結果はDragon承認済み。
 - Round 3のプロンプト：Discussion #52に投稿済み（2026-10-09）。
 - Round 4：Discussion #53に投稿済み（2026-10-10）。プロンプトのURLが実ファイル名と合わず、3AIが404になった（「Round 4サマリ」参照）。
 - 初稿：`manuscript/`に4ファイル反映済み（`１話 ひとつ足りない.md`・`２話 店先で.md`・`３話 通りの真ん中で.md`・`４話 七時.md`）。2話・4話は、Round 4の修正を反映済み。`draft/`は使っていない。
@@ -475,3 +502,5 @@ Round 4の確認事項は、2026-10-10に承認済み（「Round 4の結果」�
 - 2026-10-10（Round 4）：Round 4サマリ・Round 4の結果（Dragon承認済み）を追加。「現在の状態」「現在の目的」「これまでの承認事項」「Dragonに確認したい点」「GitHub反映状況」を更新。CANONに「Round 4で確定した方針」、NOT_CANONに2項目を追記。READMEの段階・開発順序・AI参加者を更新。
 - 2026-10-11（Round 5承認）：Dragonの承認（「Claude推奨で良い」）を反映。Round 5サマリ・Round 5の結果を追加。「現在の状態」「現在の目的」「これまでの承認事項」「Dragonに確認したい点」「GitHub反映状況」を更新。CANONに「Round 5で確定した方針」、NOT_CANONに3項目を追記。READMEの題名・段階・開発順序・AI参加者を更新。Round 6のプロンプトを作成。
 - 2026-10-11（Round 6承認）：Dragonの承認（「1日の公開は最大で1にする。仕事で複数公開は難しいため。それ以外はClaude推奨で良い。」）を反映。Round 6サマリ・Round 6の結果を追加。「現在の状態」「現在の目的」「これまでの承認事項」「Dragonに確認したい点」「GitHub反映状況」を更新（Round 5反映済みの記述の食い違いも修正）。CANONに「Round 6で確定した方針」、NOT_CANONに3項目を追記。READMEの段階・開発順序・AI参加者を更新。Round 7のプロンプトを作成。
+- 2026-10-11（Round 7承認）：Dragonの承認（「承認」）を反映。Round 7サマリ・Round 7の結果を追加。「現在の状態」「現在の目的」「これまでの承認事項」「Dragonに確認したい点」「GitHub反映状況」を更新（Round 6反映済みの食い違いも修正）。CANONに「Round 7で確定した方針」、NOT_CANONに5項目を追記。READMEは未確認。
+
