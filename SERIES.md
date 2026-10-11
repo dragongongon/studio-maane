@@ -29,8 +29,9 @@ note記事の分類は、企画番号ではなく**実際の記事タイトル�
 - **原稿・企画管理**：[`products/90-ai-to-manabu-tech/`](products/90-ai-to-manabu-tech/) に集約。
   - [第1記事「複数AIの会話をGitHub Discussionsに集める方法」](products/90-ai-to-manabu-tech/drafts/01-github-discussions.md)
   - [第2記事「AIに毎回同じ説明をしないための情報整理術」](products/90-ai-to-manabu-tech/drafts/02-information-management.md)
-  - 両記事とも下書き。noteへの公開はしていない。
-- **次の行動**：第1記事と第2記事の内容重複・実運用との一致・リンク・個人情報・再現性を確認し、サムネイルとタグを整える。公開可否はオーナーに確認する。公開後はインプレッション・PV・スキ・コメント・売上を記録し、反応を見て次の記事を決める。
+  - [第3記事「AIにURLを渡しても伝わらない？必要な情報を確実に共有する方法」](products/90-ai-to-manabu-tech/drafts/03-sharing-context-with-ai.md)
+  - 3記事とも下書き。noteへの公開はしていない。
+- **次の行動**：第1〜第3記事の内容重複・実運用との一致・リンク・個人情報・再現性を確認し、サムネイルとタグを整える。公開可否はオーナーに確認する。公開後はインプレッション・PV・スキ・コメント・売上を記録し、反応を見て次の記事を決める。
 
 ### 「AIから生まれた7つの物語」
 **分類ルール：タイトルが「AIから生まれた7つの物語」で始まる記事。**
