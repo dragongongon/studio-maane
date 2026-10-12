@@ -25,6 +25,7 @@ note記事の分類は、企画番号ではなく**実際の記事タイトル�
 - **現在確認できる記事**
   - 「AIと学ぶ技術｜複数AIの会話をGitHub Discussionsに集める方法」— 下書き
   - 「AIと学ぶ技術｜AIに毎回同じ説明をしないための情報整理術」— 下書き
+  - 「AIと学ぶ技術｜AIにURLを渡しても伝わらない？必要な情報を確実に共有する方法」— 下書き
 - **内容**：複数AIの協働、GitHub Discussionsでの情報集約、議論の堂々巡りを防ぐ整理術など、実際に試したAI活用・技術手順を読者向けに紹介する。
 - **原稿・企画管理**：[`products/90-ai-to-manabu-tech/`](products/90-ai-to-manabu-tech/) に集約。
   - [第1記事「複数AIの会話をGitHub Discussionsに集める方法」](products/90-ai-to-manabu-tech/drafts/01-github-discussions.md)
