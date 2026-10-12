@@ -16,9 +16,10 @@
 ## 記事
 1. [複数AIの会話をGitHub Discussionsに集める方法](drafts/01-github-discussions.md) — 下書き
 2. [AIに毎回同じ説明をしないための情報整理術](drafts/02-information-management.md) — 下書き
+3. [AIにURLを渡しても伝わらない？必要な情報を確実に共有する方法](drafts/03-sharing-context-with-ai.md) — 下書き
 
 ## 状態
-3記事とも下書き。公開していない。公開前に本文・タイトル・タグ・サムネイル・評価方法を確認する。
+3記事とも下書き。noteには公開していない。公開前に本文・タイトル・タグ・サムネイル・評価方法を確認する。
 
 
 ## 公開準備案（未確定・公開前にオーナー確認）
