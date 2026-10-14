@@ -50,19 +50,23 @@
 ## 進捗（2026-10-14）
 - [x] シリーズ方針・Grok/MuseSpark分担
 - [x] 実験＝公開サイクル／検証＝公開後数字、に単線化
-- [x] 第1記事を同方針に合わせて調整
-- [x] MuseSpark向け方針プロンプト更新
-- [ ] オーナー最終承認（第1記事の公開可否・価格・タイトル）
+- [x] 第1記事下書き・ビジュアル
+- [x] **公開決定**：出す／近いうち／**500円**／タイトル確定
+- [ ] noteへの投稿（オーナー実施）
+- [ ] 公開後しばらくして数字を確認（検証）
 
-## 記事
-1. [AIで稼ぐ実験｜「AIへの指示順」を実績ゼロのチームが試した結果](drafts/01-prompt-order-trial.md) — 下書き（公開＝実験）
+## 第1記事（確定）
+- **タイトル**：AIで稼ぐ実験｜「AIへの指示順」を実績ゼロで試して公開してみた
+- **価格**：500円
+- **原稿**：`drafts/01-prompt-order-trial.md`
+- **決定記録**：`output/grok/2026-10-14_publish-decision.md`
 
 ## 出力先
 - Grok：`output/grok/`
 - MuseSpark：`output/musespark/`
 - 実験指示：`output/musespark/00-experiment-instructions.md`
-- 方針ブリーフ（プロンプト）：`output/musespark/00-policy-brief-for-musespark.md`
+- 方針ブリーフ：`output/musespark/00-policy-brief-for-musespark.md`
 
 ## 次の行動
-- オーナー：第1記事の公開可否・価格・タイトル
-- MuseSpark：更新後の方針ブリーフを読む
+- オーナー：noteに投稿（タイトル・500円・ヘッダー・タグ）
+- 投稿後：しばらく数字を見ない。検証は後で行う
