@@ -4,7 +4,7 @@
 
 ## 現在の状態
 
-Round 3完了（Discussion #59、5コメント。MuseSpark分は本文を確認できず）。Dragon承認済み。次はRound 4（残件の確定）。Round 4のプロンプトは作成済み。
+Round 4完了（Discussion #72。MuseSparkはQ1の回答なし）。Dragon承認済み。次はRound 5（縮小版・残件の確定）。Round 5のプロンプトは作成済み。
 
 ## これまでの承認事項
 
@@ -17,6 +17,7 @@ CANONの「Dragon決定」と同じ。
 - 2026-10-13：Round 1の結果とClaude推奨を承認（Dragon：「承認」）。内容はCANONの「Round 1で確定した方針」。
 - 2026-10-14：Round 2の結果とClaude推奨を承認（Dragon：「承認」）。内容はCANONの「Round 2で確定した方針」。
 - 2026-10-14：Round 3の結果とClaude推奨を承認（Dragon：「承認」）。内容はCANONの「Round 3で確定した方針」。
+- 2026-10-14：Round 4の結果とClaude推奨を承認（Dragon：「承認」）。内容はCANONの「Round 4で確定した方針」。
 
 ## Round 1サマリ（Dragon承認済み）
 
@@ -39,6 +40,13 @@ CANONの「Dragon決定」と同じ。
 - 検証メモ：Gemini・Grok・Qwenは既読申告あり。Grokの結び評はQwenと文言がほぼ同じ。独立票はChatGPTのみ（Claudeの推測）。
 - 要注意：1話ビー玉の置き土産／3話の題がクセを名指しする恐れ／題が結びを先に言う／Qwen引用のP20記述は未検証。
 
+## Round 4サマリ（Dragon承認済み）
+
+- 合意：日付案の曜日・間隔は整合／シリーズ名＝綴町の余白／1話の結び＝ポケットにしまう／4話ゲスト＝40代半ばの保護者（Dragon承認）／3〜6話の題を採用。
+- 未決（Round 5へ）：3話の日付・3話6話の環境／3話・5話の結び／倫子・創の別動作／4話の書類／1・2話の題／公開日。
+- 検証メモ：MuseSparkはQ1の回答なし（R3に続き2回目）。QwenのP20出典はCANON・STATUSと照合し一致。Qwenは「読まずに書いた」と申告したが、直前の自身のコメントが他AIの回答を列挙しており、申告と合わない（Claudeの推測を含む）。GeminiはP20の動作を取り違え（首の後ろ＝P16のクセ。P20の倫子は箱の角をそろえる）。
+- 要注意：1話8/9はるいが朝7時から屋台の片付け（P20 CANON）／1話の「駄菓子屋」は倫子の実家（P16 CANON）／「エピローグ的連作」と銘打つ書き方はP20の方針に近く避ける。
+
 ## 作業分担
 
 - ChatGPT：フォルダ・初期ファイルの用意
@@ -51,3 +59,5 @@ CANONの「Dragon決定」と同じ。
 - 2026-10-13：Round 1（Discussion #57）実施。5AIの回答を統合し、Dragonが承認。CANON・NOT_CANON・STATUSを更新。
 - 2026-10-14：Round 2（Discussion #58）実施。5AIの回答を統合し、Dragonが承認。CANON・NOT_CANON・STATUSを更新。
 - 2026-10-14：Round 3（Discussion #59）実施。5AIの回答を統合し、Dragonが承認。CANON・NOT_CANON・STATUSを更新。
+- 2026-10-14：Round 4（Discussion #72）実施。5AIの回答を統合し、Dragonが承認。CANON・NOT_CANON・STATUSを更新。
+
