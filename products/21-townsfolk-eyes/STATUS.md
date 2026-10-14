@@ -4,7 +4,7 @@
 
 ## 現在の状態
 
-Round 2完了（Discussion #58、5AI回答。Dragon承認済み）。次はRound 3（場面の確定、クセの描き方、結びの規則）。Round 3のプロンプトは作成済み。
+Round 3完了（Discussion #59、5コメント。MuseSpark分は本文を確認できず）。Dragon承認済み。次はRound 4（残件の確定）。Round 4のプロンプトは作成済み。
 
 ## これまでの承認事項
 
@@ -16,6 +16,7 @@ CANONの「Dragon決定」と同じ。
 - 2026-10-13：企画の方向は「町の人から見た6人」（祭りのあとの秋。綴町の住人の視点で描く、1話完結の短編）。
 - 2026-10-13：Round 1の結果とClaude推奨を承認（Dragon：「承認」）。内容はCANONの「Round 1で確定した方針」。
 - 2026-10-14：Round 2の結果とClaude推奨を承認（Dragon：「承認」）。内容はCANONの「Round 2で確定した方針」。
+- 2026-10-14：Round 3の結果とClaude推奨を承認（Dragon：「承認」）。内容はCANONの「Round 3で確定した方針」。
 
 ## Round 1サマリ（Dragon承認済み）
 
@@ -31,6 +32,13 @@ CANONの「Dragon決定」と同じ。
 - 検証メモ：Grok・Gemini・MuseSparkは既読申告あり。QwenはQ5本文にChatGPT案の語があり、未読の申告と合わない。独立票とは数えない（Claudeの推測）。
 - 要注意：結びのルール違反候補（3話・5話）／3話の閉館はP16 7話冒頭と重なる／クセの「しかけて止める」と「消える」の整合／題でのクセ名指し／高齢ゲストの偏り。
 
+## Round 3サマリ（Dragon承認済み）
+
+- 合意：Q2＝A／2話の結びを木材の当て直しに／6話の袖の動作を削除。
+- 未決（Round 4へ）：2〜6話の日付／3話・6話の環境（MuseSpark分が欠落）／4話ゲスト年齢（Dragon判断）／1話の結び／別動作の具体物／題とシリーズ名。
+- 検証メモ：Gemini・Grok・Qwenは既読申告あり。Grokの結び評はQwenと文言がほぼ同じ。独立票はChatGPTのみ（Claudeの推測）。
+- 要注意：1話ビー玉の置き土産／3話の題がクセを名指しする恐れ／題が結びを先に言う／Qwen引用のP20記述は未検証。
+
 ## 作業分担
 
 - ChatGPT：フォルダ・初期ファイルの用意
@@ -42,3 +50,4 @@ CANONの「Dragon決定」と同じ。
 - 2026-10-13：初期ファイル作成。
 - 2026-10-13：Round 1（Discussion #57）実施。5AIの回答を統合し、Dragonが承認。CANON・NOT_CANON・STATUSを更新。
 - 2026-10-14：Round 2（Discussion #58）実施。5AIの回答を統合し、Dragonが承認。CANON・NOT_CANON・STATUSを更新。
+- 2026-10-14：Round 3（Discussion #59）実施。5AIの回答を統合し、Dragonが承認。CANON・NOT_CANON・STATUSを更新。
