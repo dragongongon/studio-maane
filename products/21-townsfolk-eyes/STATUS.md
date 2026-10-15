@@ -1,10 +1,10 @@
 # Product 21 STATUS
 
-最終更新：2026-10-14
+最終更新：2026-10-15
 
 ## 現在の状態
 
-Round 4完了（Discussion #72。MuseSparkはQ1の回答なし）。Dragon承認済み。次はRound 5（縮小版・残件の確定）。Round 5のプロンプトは作成済み。
+Round 5完了（Discussion #73）。5AI全員が回答し、Claude推奨をDragonが承認。次は初稿v1の執筆。
 
 ## これまでの承認事項
 
@@ -18,6 +18,7 @@ CANONの「Dragon決定」と同じ。
 - 2026-10-14：Round 2の結果とClaude推奨を承認（Dragon：「承認」）。内容はCANONの「Round 2で確定した方針」。
 - 2026-10-14：Round 3の結果とClaude推奨を承認（Dragon：「承認」）。内容はCANONの「Round 3で確定した方針」。
 - 2026-10-14：Round 4の結果とClaude推奨を承認（Dragon：「承認」）。内容はCANONの「Round 4で確定した方針」。
+- 2026-10-15：Round 5の結果とClaude推奨を承認（Dragon：「承認」）。内容はCANONの「Round 5で確定した方針」。
 
 ## Round 1サマリ（Dragon承認済み）
 
@@ -47,6 +48,13 @@ CANONの「Dragon決定」と同じ。
 - 検証メモ：MuseSparkはQ1の回答なし（R3に続き2回目）。QwenのP20出典はCANON・STATUSと照合し一致。Qwenは「読まずに書いた」と申告したが、直前の自身のコメントが他AIの回答を列挙しており、申告と合わない（Claudeの推測を含む）。GeminiはP20の動作を取り違え（首の後ろ＝P16のクセ。P20の倫子は箱の角をそろえる）。
 - 要注意：1話8/9はるいが朝7時から屋台の片付け（P20 CANON）／1話の「駄菓子屋」は倫子の実家（P16 CANON）／「エピローグ的連作」と銘打つ書き方はP20の方針に近く避ける。
 
+## Round 5サマリ（Dragon承認済み）
+- 合意：日付据え置き／4話＝備品借用書／5話の結び＝鞄の持ち手。
+- Claude推奨：3話の結び／創の別動作／2話の題／環境要素。
+- 未決：1話の題（仮題）／公開日。
+- 検証メモ：独立票はChatGPT・Grok（読まずに申告、本文と一致）。MuseSpark・Qwenは他案を名指しで評価し、独立票とは数えない。QwenのQ5は「未確認」で、P20の動作はClaudeが直接確認した。
+- 要注意：1話の「午後」「瓶」の根拠はCANONに無い／結びが「帰る・出る」で並ぶ／倫子の「なぞる」は拓海の「追う」に近い恐れ。
+
 ## 作業分担
 
 - ChatGPT：フォルダ・初期ファイルの用意
@@ -60,4 +68,4 @@ CANONの「Dragon決定」と同じ。
 - 2026-10-14：Round 2（Discussion #58）実施。5AIの回答を統合し、Dragonが承認。CANON・NOT_CANON・STATUSを更新。
 - 2026-10-14：Round 3（Discussion #59）実施。5AIの回答を統合し、Dragonが承認。CANON・NOT_CANON・STATUSを更新。
 - 2026-10-14：Round 4（Discussion #72）実施。5AIの回答を統合し、Dragonが承認。CANON・NOT_CANON・STATUSを更新。
-
+- 2026-10-15：Round 5（Discussion #73）実施。5AIの回答を統合し、Dragonが承認。CANON・NOT_CANON・STATUSを更新。
