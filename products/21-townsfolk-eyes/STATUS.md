@@ -1,10 +1,10 @@
 # Product 21 STATUS
 
-最終更新：2026-10-15
+最終更新：2026-10-16
 
 ## 現在の状態
 
-Round 5完了（Discussion #73）。5AI全員が回答し、Claude推奨をDragonが承認。次は初稿v1の執筆。
+Round 6完了（Discussion #78）。5AI全員が回答。規則違反なし。Claude推奨をDragonが承認し、微修正2件（2話・4話）はコミット済み。次は公開日の決定。
 
 ## これまでの承認事項
 
@@ -19,6 +19,7 @@ CANONの「Dragon決定」と同じ。
 - 2026-10-14：Round 3の結果とClaude推奨を承認（Dragon：「承認」）。内容はCANONの「Round 3で確定した方針」。
 - 2026-10-14：Round 4の結果とClaude推奨を承認（Dragon：「承認」）。内容はCANONの「Round 4で確定した方針」。
 - 2026-10-15：Round 5の結果とClaude推奨を承認（Dragon：「承認」）。内容はCANONの「Round 5で確定した方針」。
+- 2026-10-16：Round 6の結果とClaude推奨を承認（Dragon：「承認」）。内容はCANONの「Round 6で確定した方針」。
 
 ## Round 1サマリ（Dragon承認済み）
 
@@ -55,6 +56,13 @@ CANONの「Dragon決定」と同じ。
 - 検証メモ：独立票はChatGPT・Grok（読まずに申告、本文と一致）。MuseSpark・Qwenは他案を名指しで評価し、独立票とは数えない。QwenのQ5は「未確認」で、P20の動作はClaudeが直接確認した。
 - 要注意：1話の「午後」「瓶」の根拠はCANONに無い／結びが「帰る・出る」で並ぶ／倫子の「なぞる」は拓海の「追う」に近い恐れ。
 
+## Round 6サマリ（Dragon承認済み）
+- 合意：規則違反なし／1話の題＝朝の屋台／2話・4話の微修正（コミット済み）。
+- Dragon決定：1話ビー玉とP20 3話の提灯の語の重なりは偶然でも許容。2話の台詞・3話の「三つ目」・5話6話の結び・6話の価格は現状維持（Claude推奨を承認）。
+- 未決：公開日。
+- 検証メモ：独立票はChatGPT・Gemini・Grok・Qwen。MuseSparkは他AI既読を申告し、独立票とは数えない。Geminiは本文と合わない引用が4件。MuseSparkの結び変更案はR3・R5の確定と衝突し、語彙頻度の指摘は過大（Claudeの照合）。
+- 要注意：5話・6話の結びが連続して退出型（確定済みのため変更しない）。
+
 ## 作業分担
 
 - ChatGPT：フォルダ・初期ファイルの用意
@@ -69,3 +77,4 @@ CANONの「Dragon決定」と同じ。
 - 2026-10-14：Round 3（Discussion #59）実施。5AIの回答を統合し、Dragonが承認。CANON・NOT_CANON・STATUSを更新。
 - 2026-10-14：Round 4（Discussion #72）実施。5AIの回答を統合し、Dragonが承認。CANON・NOT_CANON・STATUSを更新。
 - 2026-10-15：Round 5（Discussion #73）実施。5AIの回答を統合し、Dragonが承認。CANON・NOT_CANON・STATUSを更新。
+- 2026-10-16：Round 6（Discussion #78）実施。5AIの回答を統合し、Dragonが承認。CANON・NOT_CANON・STATUSを更新。2話・4話に微修正。
