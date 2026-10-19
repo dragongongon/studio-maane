@@ -8,6 +8,8 @@ Transformer論文「Attention Is All You Need」と、その8人の著者、技�
 - [research/fact-check.md](./research/fact-check.md)：一次資料と事実確認メモ
 - [manuscript/特別編.md](./manuscript/特別編.md)：有料記事候補の統合作業稿
 - [manuscript/論文読解ワークシート.md](./manuscript/論文読解ワークシート.md)：購入者に提供する再利用可能な実用シート
+- [manuscript/論文図表ガイド.md](./manuscript/論文図表ガイド.md)：原論文のFigure 1・2、Table 1〜3を読むためのガイド
+- [final/note-metadata.md](./final/note-metadata.md)：タイトル・タグ・販売説明文・サムネイル方針
 - [final/publishing-plan.md](./final/publishing-plan.md)：公開構成・価格・販売設計案
 - [final/qa-checklist.md](./final/qa-checklist.md)：公開前の品質確認リスト
 
