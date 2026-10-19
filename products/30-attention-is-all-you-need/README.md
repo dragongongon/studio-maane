@@ -6,6 +6,7 @@ Transformer論文「Attention Is All You Need」と、その8人の著者、技�
 - [CANON.md](./CANON.md)：企画の核、確定方針、事実関係の基準
 - [STATUS.md](./STATUS.md)：現在の進捗、承認事項、次の作業
 - [research/fact-check.md](./research/fact-check.md)：一次資料と事実確認メモ
+- [research/author-contributions.md](./research/author-contributions.md)：原論文に記された8人の貢献メモ
 - [manuscript/特別編.md](./manuscript/特別編.md)：有料記事候補の統合作業稿
 - [manuscript/論文読解ワークシート.md](./manuscript/論文読解ワークシート.md)：購入者に提供する再利用可能な実用シート
 - [manuscript/論文図表ガイド.md](./manuscript/論文図表ガイド.md)：原論文のFigure 1・2、Table 1〜3を読むためのガイド
