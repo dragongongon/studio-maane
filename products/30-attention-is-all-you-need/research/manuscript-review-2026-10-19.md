@@ -14,10 +14,12 @@
 現行稿：
 > 「その後の本人の公開プロフィールでは、OpenAIのAI研究者として紹介されている。」
 
-2026-10-19時点で確認できた信頼できる資料では、この記述を裏づけられていない。2024年の報道では、ShazeerがGoogle DeepMindに戻ったと報じられている。OpenAI所属という記述は、誤記または古い情報の可能性があるため、本人・所属先の一次資料を確認するまで削除または保留する。
+初回レビュー時点では未確認としていたが、追加調査により、2026年6月にShazeerがGoogleを離れてOpenAIに加わるとReutersが報道しており、本人の公開サイトも「computer scientist and entrepreneur at OpenAI」と記載している。したがって、現行稿のOpenAI所属という記述は、2026-10-19時点では裏づけられる。本文は削除せず、本人サイトと2026年6月の報道を参考資料に追加する。なお、公開直前に最新状況を再確認する。
 
 参考：
-- Reuters（Character.AIの創業者と2024年のGoogleとの契約を含む背景）：https://www.reuters.com/technology/artificial-intelligence/rise-fall-an-ai-chatbot-darling-2026-10-14/
+- 本人の公開サイト：https://www.noamshazeer.com/
+- Reuters, 2026-06-18：https://www.reuters.com/technology/googles-gemini-co-lead-noam-shazeer-join-openai-2026-06-18/
+- Reuters, Character.AIの2026年10月のChapter 11報道：https://www.reuters.com/technology/artificial-intelligence/rise-fall-an-ai-chatbot-darling-2026-10-14/
 - TechCrunch（2024年のGoogle復帰報道）：https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/
 
 ### 2. 第4部：Character.AIのChapter 11手続き
