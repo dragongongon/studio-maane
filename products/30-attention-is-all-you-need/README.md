@@ -3,6 +3,7 @@
 Transformer論文「Attention Is All You Need」と、その8人の著者、技術の発展、社会への波及を扱うnote記事企画。
 
 ## ファイル案内
+- [manuscript/0.md](./manuscript/0.md)：初心者向けの導入章「ChatGPTが生まれる前、8人はひとつの論文を書いた」
 - [CANON.md](./CANON.md)：企画の核、確定方針、事実関係の基準
 - [STATUS.md](./STATUS.md)：現在の進捗、承認事項、次の作業
 - [research/fact-check.md](./research/fact-check.md)：一次資料と事実確認メモ
