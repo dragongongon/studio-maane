@@ -87,6 +87,15 @@ Ashish Vaswani、Niki Parmar、Llion Jones、Aidan Gomez、Jakob Uszkoreit、Łu
 ### 7. 第3部：GoogleとOpenAIの対比
 現行稿は「Googleは気づかなかった」という単純な説明を避けており、基本方針は適切。Googleの社内意思決定について、確認できない動機を事実として書かず、「外部から考えられる要因」と明記する現行の留保を維持する。
 
+
+
+### 8. 第1〜3部：参考資料と表記の更新（2026-10-19）
+
+- 第1部のBLEU値について「NeurIPS 2017掲載版では」と明記し、arXiv改訂版の英仏41.8との混同を防ぐ。原論文、NeurIPS掲載版、PDFへのリンクを追加。
+- 第2部の参考資料を、NeurIPS掲載版・査読記録、Google ResearchのBERT発表、OpenAIのGPT-3研究・ChatGPT発表へ直接リンクする形に更新。
+- 第3部の参考資料を、GoogleのLaMDA紹介、LaMDA 2／AI Test Kitchen、Bard発表、OpenAIのChatGPT・GPT-3資料へ直接リンクする形に更新。
+- 本文の構成や語り口は変更せず、出典の特定性を改善した。URLは公開直前にもリンク切れを確認する。
+
 ## 優先度C：編集工程で確認
 
 - 4部の参考資料を、記事内の主要な事実主張と直接対応させる。現状のように資料名だけのリストでは読者が原典を見つけにくいため、クリックできるURLにする。
