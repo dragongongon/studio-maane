@@ -37,6 +37,34 @@ Ashish Vaswani、Niki Parmar、Llion Jones、Aidan Gomez、Jakob Uszkoreit、Łu
 - Sakana AIの公式会社情報は、Llion Jonesを共同創業者・CTOとして掲載：https://sakana.ai/company-info/?lang=en
 - Cohereの公式ページは、Aidan Gomezを共同創業者・CEOとして掲載：https://cohere.com/about
 
+### 4. 第4部：8人の経歴・活動の追調査結果（2026-10-19）
+
+一次資料・公式資料を中心に確認した結果、現行稿の主要な経歴記述は概ね維持できる。変更は出典の明示と、Illia Polosukhinの近年のAI活動を少し具体化する範囲にとどめた。
+
+- **Ashish Vaswani**：Essential AI公式ページは同氏をCEOとして紹介し、公式サイトは2025年12月のRnj-1公開を掲載。本文のEssential AIとRnj-1に関する記述を支持する。
+  - https://www.essential.ai/about
+  - https://www.essential.ai/
+- **Noam Shazeer**：本人サイトはOpenAIのコンピューター科学者・起業家と記載。Reutersは2026年6月にOpenAIへ加わると報道。本文の現職記述は維持する。
+  - https://www.noamshazeer.com/
+  - https://www.reuters.com/technology/googles-gemini-co-lead-noam-shazeer-join-openai-2026-06-18/
+- **Niki Parmar**：本文はAdept AIとEssential AIの「共同創業に関わった」という過去の経歴として記述しており、現在の所属・役職は断定していない。この区別を維持する。今回、現職を一次資料で確定できる根拠は得られなかったため、現職を追記しない。
+- **Llion Jones**：Sakana AI公式会社情報は共同創業者・CTOと記載。
+  - https://sakana.ai/company-info/?lang=en
+- **Aidan Gomez**：Cohere公式ページは共同創業者・CEOと記載。同社の企業向けAIに関する説明も確認できる。
+  - https://cohere.com/about
+- **Jakob Uszkoreit**：Inceptive公式サイトは生命科学・医薬品設計向けの基盤モデルを事業領域として説明。2026年のAlnylam公式発表はUszkoreitを共同創業者・CEOとし、RNAi創薬での提携を確認できる。
+  - https://inceptive.com/
+  - https://alnylampharmaceuticalsinc.gcs-web.com/news-releases/news-release-details/alnylam-and-inceptive-form-strategic-ai-collaboration-accelerate
+- **Łukasz Kaiser**：OpenAI Forumの2025年10月の講演ページは、OpenAIの深層学習研究者として紹介し、推論モデルに関わる研究にも言及している。本文の「近年では…推論能力を持つAIシステムにつながる研究」は維持可能。
+  - https://forum.openai.com/en/public/videos/event-replay-learning-powerful-models-from-transformers-to-reasoners-and-beyond-2025-10-06
+- **Illia Polosukhin**：NEAR公式サイト・ブログはNEARの共同創業者であり、2025年に機密性を保った分散型AI計算の研究を発表したことを確認できる。本文のAI活動を「NEAR AIの取り組みにも関わり、機密性を保った分散型AI計算などの研究を発表」と具体化した。
+  - https://www.near.org/
+  - https://near.org/blog/nvidia-gtc-2025
+
+**Character.AIのChapter 11記述**：Reutersの2026年10月14日付報道を参考資料に追加した。本文は技術的価値と事業運営を区別する留保を維持する。
+
+**編集判断**：大幅な書き換えは不要。人物紹介の語り口と構成は維持し、出典URLを参考資料に直接追加した。公開直前には、変動し得る役職・手続き状況を再確認する。
+
 ## 優先度B：精度・読みやすさの改善候補
 
 ### 4. 第1部：BLEU値の版を明示する
