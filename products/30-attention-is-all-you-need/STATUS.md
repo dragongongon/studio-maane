@@ -21,6 +21,8 @@
 - `research/fact-check.md`：一次資料と事実確認メモ
 - `research/author-contributions.md`：原論文に記された8人の貢献メモ
 - `research/manuscript-review-2026-10-19.md`：第1〜4部の初回レビューと修正候補
+- `research/ai-review-response-2026-10-19.md`：各AIの検証結果
+- `research/review-synthesis-2026-10-20.md`：各AIレビューの統合判断と修正記録
 - `manuscript/1.md`〜`4.md`：無料記事候補の作業稿
 - `manuscript/特別編.md`：有料記事候補の統合作業稿
 - `manuscript/論文読解ワークシート.md`：読者が再利用できる実用テンプレート
