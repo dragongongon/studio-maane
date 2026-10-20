@@ -82,3 +82,22 @@
 - Aidan Gomez：Cohere公式の最近のブログ記事検索結果に「Co-founder and CEO」と明記されている（例：https://cohere.com/blog/cohere-alephalpha-join-forces 、確認日2026-10-21）。前項の「今回の抽出範囲では直接確認できなかった」は、この追加確認により解消。公開前の最終確認は引き続き行う。
 - Jakob Uszkoreit：Inceptive公式のAlnylam提携記事検索結果に「Inceptive co-founder and CEO」と明記されている（https://inceptive.com/blog/alnylam-ai-rnai-therapeutics-partnership 、確認日2026-10-21）。本文は現時点では「共同創業した」に留めており、肩書きを足さなくても主張の正確性は損なわない。
 - Łukasz Kaiser：OpenAI公式のGPT-4 contributionsページで研究貢献者として名前が掲載されている（https://openai.com/contributions/gpt-4/ 、確認日2026-10-21）。これはOpenAIでの研究参加を裏付けるが、単独で現在の正式な職位までは示さない。
+
+## 著者8人の現在の活動・本文表現の照合（2026-10-21）
+
+| 著者 | 今回確認した根拠 | 原稿上の扱い |
+|---|---|---|
+| Ashish Vaswani | Essential AI公式のRnj-1発表（2025-12-05）、Adept公式の創業紹介 | Essential AIでの研究開発・Rnj-1公開を記載。Adeptとの共同創業についても公式紹介に根拠あり。 |
+| Noam Shazeer | 本人公開プロフィール、Character.AI公式発表 | OpenAIで紹介されていること、Character.AI共同創業と2024年のGoogle復帰を時系列で記載。公開プロフィールの肩書きは将来変わり得る。 |
+| Niki Parmar | Adept公式の創業紹介、第三者の人物紹介 | AdeptおよびEssential AIの共同創業に関わったという過去の活動として記載。現在の所属・役職は断定していない。 |
+| Llion Jones | Sakana AI公式会社概要（2026年更新版） | 共同創業者兼CTOとして記載。 |
+| Aidan Gomez | Cohere公式Aboutページ | 共同創業者兼CEOとして記載。 |
+| Jakob Uszkoreit | Inceptive公式のAlnylam提携記事（2026年）、Inceptive公式サイト | 共同創業者として記載。現CEOの根拠も確認できたが、本文では必要以上に肩書きを増やしていない。 |
+| Łukasz Kaiser | OpenAI Forum公式イベントページ（2025-10-08） | OpenAIのdeep learning researcherとして紹介され、推論モデルを含む研究活動の説明と整合。 |
+| Illia Polosukhin | NEAR AI公式Companyページ・研究ページ | NEAR Protocol共同創業者、NEAR AIでの活動、機密性・検証可能性を重視するAI計算の研究という本文記述と整合。 |
+
+### この照合での判断
+- 現在の肩書きは公開情報の確認日を伴うスナップショットであり、公開日がずれる場合は再確認する。
+- Niki Parmarは現在の職務を本文で断定せず、過去の共同創業活動として記載するのが安全。
+- 原稿第4部の参考資料の日付を2026-10-21に更新し、Adept公式の創業紹介とInceptive公式の提携発表を追加した。
+- これは人物情報の照合であり、全リンクが実端末で開くことの確認や、note表示QAを完了したという意味ではない。
