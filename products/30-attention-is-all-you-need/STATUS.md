@@ -61,3 +61,10 @@
 - CohereのAboutページは開いたが、今回の抽出範囲ではAidan Gomezの現職肩書きを直接確認できず。公開前に再確認する。
 - 一部ページは閲覧ツールのアクセス／キャッシュ制限で本文を取得できない。これはリンク切れの証明ではない。全リンク監査、実端末ブラウザ確認、noteスマートフォン表示QAは未完了。
 - 調査の詳細と確認日・未完了項目は research/fact-check.md に記録。
+
+## 著者情報の照合（2026-10-21 追記）
+- 第4部の著者8人について、原稿中の人物紹介と公開情報を一人ずつ照合。Ashish Vaswani／Niki ParmarはAdept公式の創業紹介、Ashish VaswaniはEssential AIのRnj-1発表、Noam Shazeerは本人公開プロフィールとCharacter.AI公式発表、Llion JonesはSakana AI公式会社概要、Aidan GomezはCohere公式About、Jakob UszkoreitはInceptive公式提携記事、Łukasz KaiserはOpenAI Forum、Illia PolosukhinはNEAR AI公式情報を確認した。
+- 第4部の参考資料日付を2026-10-21へ更新し、Adept公式創業紹介とInceptive公式提携発表へのリンクを追加。
+- Niki Parmarについては、今回確認できた根拠は主に過去の共同創業活動のため、現在の所属・職務は断定しない。役職や所属は公開直前に再確認する。
+- QAチェックリストの「著者の現職・企業情報は出典と確認日がある」を完了扱いに更新。
+- 未完了：全リンクの実ブラウザ確認、Character.AIの時事情報の公開直前再確認、特別編の冗長性・無料記事との差分の最終編集、noteスマートフォン表示QA、公開・販売のオーナー承認。
