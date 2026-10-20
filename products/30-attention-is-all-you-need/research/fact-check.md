@@ -77,3 +77,8 @@
 - 第4部の公開直前には、Aidan Gomezの肩書き、8人全員の現況、Character.AIの法的手続きとサービス状況を再確認する。
 - 「2026年10月19日時点で確認」と本文に書く場合、その基準日を維持するか、公開日へ更新する。
 - 参照リンクの全件監査とnote上のスマートフォン表示確認は未完了。
+
+### 追加確認（2026-10-21）
+- Aidan Gomez：Cohere公式の最近のブログ記事検索結果に「Co-founder and CEO」と明記されている（例：https://cohere.com/blog/cohere-alephalpha-join-forces 、確認日2026-10-21）。前項の「今回の抽出範囲では直接確認できなかった」は、この追加確認により解消。公開前の最終確認は引き続き行う。
+- Jakob Uszkoreit：Inceptive公式のAlnylam提携記事検索結果に「Inceptive co-founder and CEO」と明記されている（https://inceptive.com/blog/alnylam-ai-rnai-therapeutics-partnership 、確認日2026-10-21）。本文は現時点では「共同創業した」に留めており、肩書きを足さなくても主張の正確性は損なわない。
+- Łukasz Kaiser：OpenAI公式のGPT-4 contributionsページで研究貢献者として名前が掲載されている（https://openai.com/contributions/gpt-4/ 、確認日2026-10-21）。これはOpenAIでの研究参加を裏付けるが、単独で現在の正式な職位までは示さない。
