@@ -52,3 +52,12 @@
 - noteの公開準備案：final/
 
 ファイルの全一覧は README.md を参照。過去のレビュー記録にある未更新のタイトルや古い作業予定を、現状と混同しない。
+
+## 外部資料・リンク監査（2026-10-21 追記）
+- arXiv原論文、NeurIPS掲載版PDF、査読記録、BERT arXiv論文、GPT-3／ChatGPT公式発表、GoogleのLaMDA／Bard公式記事、Essential AI／Rnj-1、Noam Shazeer本人プロフィール、Sakana AI、Inceptive、Alnylam、OpenAI Forum、NEAR、Character.AI公式発表について、閲覧ツール上でページ内容または検索結果を確認した。
+- NeurIPS査読記録には、論文が研究コミュニティですでに話題となり、再現を試みる人が多いとの記述がある。専門家の反応を「無風」と描かない方針を再確認。一般社会の認知度とは分けて扱う。
+- Transformer bigのBLEU値はNeurIPS PDF Table 2の英独28.4／英仏41.0を基準にし、NeurIPS HTML要旨・arXiv改訂版要旨の数値と混同しない。
+- Character.AI公式発表は2026-10-12付でChapter 11手続き開始と発表時点でのサービス継続を説明。Reutersの2026-10-14記事は検索結果で確認したが、本文は閲覧ツールで直接開けなかった。公開直前に再確認する。
+- CohereのAboutページは開いたが、今回の抽出範囲ではAidan Gomezの現職肩書きを直接確認できず。公開前に再確認する。
+- 一部ページは閲覧ツールのアクセス／キャッシュ制限で本文を取得できない。これはリンク切れの証明ではない。全リンク監査、実端末ブラウザ確認、noteスマートフォン表示QAは未完了。
+- 調査の詳細と確認日・未完了項目は research/fact-check.md に記録。
