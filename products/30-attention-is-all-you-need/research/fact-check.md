@@ -101,3 +101,27 @@
 - Niki Parmarは現在の職務を本文で断定せず、過去の共同創業活動として記載するのが安全。
 - 原稿第4部の参考資料の日付を2026-10-21に更新し、Adept公式の創業紹介とInceptive公式の提携発表を追加した。
 - これは人物情報の照合であり、全リンクが実端末で開くことの確認や、note表示QAを完了したという意味ではない。
+
+## リンクの再確認ログ（2026-10-21、原稿内リンクを再走査）
+
+### 本文を開いて内容を確認できたリンク
+- arXiv原論文とv7：https://arxiv.org/abs/1706.03762 ／ https://arxiv.org/abs/1706.03762v7
+- NeurIPS査読記録：https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Reviews.html
+- NeurIPS HTML要旨：https://proceedings.neurips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html
+- BERT原論文：https://arxiv.org/abs/1810.04805
+- GPT-3公式紹介：https://openai.com/index/language-models-are-few-shot-learners/
+- ChatGPT公式発表：https://openai.com/index/chatgpt/
+- Essential AIのAbout／Rnj-1：https://www.essential.ai/about ／ https://essential.ai/research/rnj-1
+- Adept公式創業紹介：https://www.adept.ai/blog/introducing-adept/
+- Noam Shazeer本人公開プロフィール：https://www.noamshazeer.com/
+- Sakana AI公式会社概要：https://sakana.ai/company-info/?lang=en
+- Cohere公式About：https://cohere.com/about
+- Inceptive公式提携発表とAlnylam側の発表：https://inceptive.com/blog/alnylam-ai-rnai-therapeutics-partnership ／ https://alnylampharmaceuticalsinc.gcs-web.com/news-releases/news-release-details/alnylam-and-inceptive-form-strategic-ai-collaboration-accelerate
+- OpenAI ForumのŁukasz Kaiser紹介：https://forum.openai.com/en/public/videos/event-replay-learning-powerful-models-from-transformers-to-reasoners-and-beyond-2025-10-06
+- NEARのIllia Polosukhin紹介：https://near.org/blog/nvidia-gtc-2025
+
+### URLを直接開けなかったが、リンク切れと断定できないもの
+- NeurIPS掲載版PDF（閲覧ツールでUnexpectedStatusCode）、Google ResearchのBERT／LaMDA／Bard記事（Cache miss）、Essential AI公式Aboutの一部表示、Inceptiveトップページ、Reuters記事、Character.AI公式発表。検索結果または他の公式ページで内容を補完できたものもあるが、実ブラウザでの最終確認が必要。
+- Google Researchの原論文紹介ページもCache miss。原論文の根拠にはarXiv／NeurIPS HTMLを優先する。
+- Reuters記事は直接閲覧できなくても検索結果で掲載情報を確認できる場合がある。ペイウォール／取得制限とリンク切れを混同しない。
+- 今回のリンク再走査では、全URLについて実ブラウザでの遷移・表示を保証できない。QAチェックリストの「参照リンクを開いて確認した」は未完了のまま維持する。
