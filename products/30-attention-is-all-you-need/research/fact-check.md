@@ -134,3 +134,10 @@
 - 第4部にInceptive–Alnylam提携の背景と条件付き上限額を追記し、Character.AIの状況を2026-10-21時点の記述へ変更。重複していたEssential AI／Rnj-1参考資料も削除した。
 - DeepReviewが指摘した特別編の重複ブロックは、GitHub上の現行ファイルでは確認できなかったため削除していない。現行稿にはTable 2の具体的な記入例も存在する。以後はレポートの行番号だけで編集せず、最新のGitHub本文を取得して照合する。
 - 全稿の最終通読、全リンクの実ブラウザ確認、時事情報の公開直前再確認、noteスマートフォン表示QAは未完了。
+
+
+## 2026-10-22 公開直前の時事情報確認
+- Character.AI公式の2026-10-12発表を再確認。Chapter 11手続きと裁判所監督下の売却、発表時点でサービス継続中、売却が成立しなければサービス終了の可能性、売却完了見込みが11月末〜12月初旬であることを確認。
+- Reutersの2026-10-13報道では、Disneyの20百万ドルはCharacter.AI全体の買収ではなく、一部資産に関する知的財産ライセンス等の取引として報じられている。原稿では「DisneyがCharacter.AI全体を買収した」とは書かず、売却手続きの結果は未確定とする。
+- Reutersの2026-10-14報道でも、Chapter 11手続きとDisneyのライセンス入札が報じられている。今回の確認範囲では、2026-10-22時点で売却結果を確定させる新たな公式発表は確認できなかった。これは裁判記録を網羅的に確認したことを意味しない。
+- 原稿中の現況表現は「2026年10月22日時点」とし、公開直前に再確認する。出典：[Character.AI公式発表](https://blog.character.ai/an-update-on-character-ai/)、[Reuters・2026-10-13](https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million/)、[Reuters・2026-10-14](https://www.reuters.com/technology/artificial-intelligence/rise-fall-an-ai-chatbot-darling-2026-10-14/)。
