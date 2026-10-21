@@ -275,3 +275,9 @@
 - `final/reference-url-audit.md` を作成し、本文から抽出した29件すべてについてURL・対象・確認状況を一覧化した。
 - 直接取得23件、検索確認6件と区別して記録。直接取得できない6件についても検索結果でページの存在・主題を確認しているが、実ブラウザ監査は未完了。
 - 台帳： https://github.com/dragongongon/studio-maane/blob/main/products/30-attention-is-all-you-need/final/reference-url-audit.md
+
+
+## 原稿執筆の継続（2026-10-22）
+- 第5部の導入を編集。冒頭に集中していたCAR発現の具体的数値を本文の実験説明節へ集約し、導入は研究の問いと前臨床段階の注意に絞った。
+- 「AI企業Inceptive」という広すぎる表現を「AIを活用した医薬品設計に取り組むInceptive」に変更。
+- 原稿の事実主張や実験数値は変更していない。公開・販売は未実施。
