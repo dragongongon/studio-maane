@@ -125,3 +125,12 @@
 - Google Researchの原論文紹介ページもCache miss。原論文の根拠にはarXiv／NeurIPS HTMLを優先する。
 - Reuters記事は直接閲覧できなくても検索結果で掲載情報を確認できる場合がある。ペイウォール／取得制限とリンク切れを混同しない。
 - 今回のリンク再走査では、全URLについて実ブラウザでの遷移・表示を保証できない。QAチェックリストの「参照リンクを開いて確認した」は未完了のまま維持する。
+
+
+## DeepReview指摘への対応（2026-10-21）
+- 第2部のGPT原論文リンクに使われていた arXiv:1810.04805 はBERT論文のURLだったため、OpenAIのGPT技術報告PDF（https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf）へ差し替えた。
+- 第1部では、NeurIPS 2017掲載版PDF Table 2の英仏BLEU 41.0について、同表に41.29／41.16のアンサンブル結果もあることを追記。単一モデルとアンサンブルを単純比較せず、訓練コストも併せて読むよう説明を補った。
+- 特別編の用語集でLayer Normalization、Softmax、Masked Self-Attentionの説明を精密化し、Encoder–Decoder Attention（Cross-Attention）を追加した。
+- 第4部にInceptive–Alnylam提携の背景と条件付き上限額を追記し、Character.AIの状況を2026-10-21時点の記述へ変更。重複していたEssential AI／Rnj-1参考資料も削除した。
+- DeepReviewが指摘した特別編の重複ブロックは、GitHub上の現行ファイルでは確認できなかったため削除していない。現行稿にはTable 2の具体的な記入例も存在する。以後はレポートの行番号だけで編集せず、最新のGitHub本文を取得して照合する。
+- 全稿の最終通読、全リンクの実ブラウザ確認、時事情報の公開直前再確認、noteスマートフォン表示QAは未完了。
