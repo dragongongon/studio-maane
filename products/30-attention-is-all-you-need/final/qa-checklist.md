@@ -163,3 +163,9 @@
 - [ ] 第5部の購入意向と無料代替との差別化を検証する。500円は未確定の候補。
 
 このQA判定は原稿品質の確認であり、noteへの公開・販売の承認を意味しない。
+
+## 参考URL監査の進捗（2026-10-22）
+- [x] 第1〜5部から参考URLを抽出し、重複を除いた29件の確認対象リストを作成した。
+- [x] 主要な公式資料・一次資料について、直接アクセスまたは検索結果で内容を確認した（原論文、NeurIPS PDF・査読記録、GPT／ChatGPT、Google BERT・LaMDA・Bard、Essential AI／Rnj-1、Adept、Noam Shazeer、Character.AI、Sakana AI、Cohere、Inceptive、Alnylam、OpenAI Forum、NEAR等）。
+- [ ] 29件すべてを実ブラウザで開き、遷移先と本文の対応を確認する。閲覧ツールで本文を取得できないことだけを理由にリンク切れと判定しない。
+
