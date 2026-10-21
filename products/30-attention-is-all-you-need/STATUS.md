@@ -262,3 +262,10 @@
 - 18件は本文またはPDFを取得でき、参照先の主題が原稿の記述と一致することを確認。
 - 11件は閲覧ツールで本文を取得できなかった。Google Research／Blogの一部、Reuters 2件、Character.AI公式、Google Researchの論文ページ、Alnylamの一部URL、InceptiveのCAR-T記事など。ツールのキャッシュ／アクセス制限による可能性があるため、リンク切れとは判定しない。
 - 残作業：未取得URLを実ブラウザで確認し、全29件の遷移先と本文の対応を確認する。今回の監査で明確なリンク切れは特定していない。
+
+
+## 参考URL監査の追加確認（2026-10-22）
+- 再アクセスにより、Google ResearchのBERT紹介、LaMDA、Googleの言語理解記事、Bard関連記事、Google Researchの原論文ページを追加で直接確認した。
+- AlnylamのAI創薬記事、Alnylam公式提携発表、InceptiveのCAR-T記事、Character.AI公式発表、ReutersのCharacter.AI記事、ReutersのNoam Shazeer記事は検索結果から存在・タイトル・主要内容を確認した。
+- 現在、29件中23件は本文またはPDFを直接取得。残る6件は直接取得できないものの、検索結果で存在を確認している。明確なリンク切れは特定していない。
+- 残作業：6件を実ブラウザで開いて遷移先と本文を確認する。全29件の実ブラウザ監査完了とは扱わない。
