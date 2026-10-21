@@ -187,3 +187,11 @@
 - [ ] 11件は閲覧ツールで本文を取得できなかった（Google Research／Blogの一部、Reuters 2件、Character.AI公式、Google Researchの論文ページ、Alnylamの一部URL、InceptiveのCAR-T記事など）。この結果だけではリンク切れと判断できない。検索結果で存在を確認済みのページもあるが、実ブラウザでの確認は残る。
 - [x] 直接取得できた例では、arXiv原論文、NeurIPS掲載版PDF・査読記録、GPT原論文、GPT-3／ChatGPT公式記事、Essential AI／Rnj-1、Adept、Noam Shazeer本人プロフィール、Sakana AI、Cohere、Inceptive／Alnylam提携発表、OpenAI Forum、NEARを確認した。
 - [ ] 全29件の実ブラウザ監査は未完了。未取得URLはリンク切れと断定せず、ユーザー端末などで確認する。
+
+
+### 参考URL監査・追加確認（2026-10-22）
+- [x] 前回取得できなかったURLを再度直接アクセスし、Google ResearchのBERT紹介、LaMDA、Googleの言語理解記事、Bard関連記事、Google Researchの原論文ページを追加確認した。
+- [x] AlnylamのAI創薬記事、Alnylam公式提携発表、InceptiveのCAR-T記事、Character.AI公式発表、ReutersのCharacter.AI記事、ReutersのNoam Shazeer記事は検索結果から記事の存在・タイトル・主要内容を確認した。
+- [x] 直接アクセスで本文またはPDFを取得できたURLは29件中23件。残る6件は直接取得できないが、検索結果で存在を確認できた。
+- [ ] 6件は実ブラウザで遷移先と本文を確認する作業が残る。閲覧ツールの取得失敗をリンク切れとは扱わない。
+- [ ] したがって、今回も全29件の実ブラウザ監査完了とは判定しない。
