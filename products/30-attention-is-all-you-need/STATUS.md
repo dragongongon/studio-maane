@@ -269,3 +269,9 @@
 - AlnylamのAI創薬記事、Alnylam公式提携発表、InceptiveのCAR-T記事、Character.AI公式発表、ReutersのCharacter.AI記事、ReutersのNoam Shazeer記事は検索結果から存在・タイトル・主要内容を確認した。
 - 現在、29件中23件は本文またはPDFを直接取得。残る6件は直接取得できないものの、検索結果で存在を確認している。明確なリンク切れは特定していない。
 - 残作業：6件を実ブラウザで開いて遷移先と本文を確認する。全29件の実ブラウザ監査完了とは扱わない。
+
+
+## 参考URL監査台帳の作成（2026-10-22）
+- `final/reference-url-audit.md` を作成し、本文から抽出した29件すべてについてURL・対象・確認状況を一覧化した。
+- 直接取得23件、検索確認6件と区別して記録。直接取得できない6件についても検索結果でページの存在・主題を確認しているが、実ブラウザ監査は未完了。
+- 台帳： https://github.com/dragongongon/studio-maane/blob/main/products/30-attention-is-all-you-need/final/reference-url-audit.md
