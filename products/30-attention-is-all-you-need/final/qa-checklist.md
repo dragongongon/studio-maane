@@ -30,6 +30,8 @@
 
 - [x] 第2部のGPT原論文リンクを修正（BERT論文を指していたURLからOpenAIのGPT技術報告PDFへ差し替え）。
 - [x] 第1部の英仏BLEU 41.0に、同表のアンサンブル結果と訓練コストの比較条件を追記した。
+- [x] 第1部のBLEU説明を再確認し、英仏のスコア比較と英独の訓練コスト比較を別の条件として明記した。
+- [x] 第3部のGoogle／OpenAI比較段落で、文体の不一致（です・ます調と常体の混在）を修正した。
 - [x] 特別編の用語集を精密化し、Encoder–Decoder Attention（Cross-Attention）を追加した。
 - [x] 第4部のInceptive–Alnylam提携額を条件付き上限として説明し、Character.AIの記述を日付付きの状況説明へ変更した。
 - [x] 第4部の重複していたEssential AI／Rnj-1参考資料を削除した。
