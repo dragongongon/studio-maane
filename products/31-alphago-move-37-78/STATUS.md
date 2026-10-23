@@ -6,9 +6,8 @@
 
 **企画立ち上げ直後。構成案（CANON.md）と、導入＋第1部の様子見ドラフト（manuscript/0.md）を作成済み。noteへの公開・販売・下書き作成は未実施。**
 
-- フォルダは当面 Muse 側の作業場所にステージング中（goal workspace の p31/）。GitHubリポジトリへの反映は未実施。
-  - GitHubコネクタは未接続（接続すれば Muse から直接プッシュ可能になる）。未接続の間はオーナーの手動連携で反映する想定。
-- 素材：オーナーが Google NotebookLM に集めたノート「AAMT_studio-maane」の内容を確認中（2026-10-24）。
+- 2026-10-24：GitHubコネクタ接続完了（オーナーが全リポジトリを選択）。テキスト5ファイル（README/CANON/STATUS/manuscript/0.md/research/fact-check.md）をリポジトリ `products/31-alphago-move-37-78/` へプッシュ済み（commit 42543fd）。サムネイル画像（.webp、バイナリ）はこの経路では送れないためローカルのみに保持。
+- 素材：NotebookLM「AAMT_studio-maane」（ソース39件）を確認済み（2026-10-24）。AlphaGo関連は5件で、要点を research/notebooklm-sources.md に取り込み済み。李世乭の発言の引用は原文確認が済むまで直接引用しない。
 - サムネイル：Muse の画像生成で叩き台1点を作成済み（thumbnails/、Meta AIへの依頼は不要）。左下で光る黒石＝第37手、中央の黒の陣形に食い込む白石＝第78手、という構図。
 - 価格：未定（500円が候補、未確定）。
 
