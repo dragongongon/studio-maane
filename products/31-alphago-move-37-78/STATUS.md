@@ -4,7 +4,7 @@
 
 ## 現在の状態
 
-**企画立ち上げ直後。構成案（CANON.md）と、導入＋第1部の様子見ドラフト（manuscript/0.md）を作成済み。noteへの公開・販売・下書き作成は未実施。**
+**全パートのドラフト作成済み（2026-10-24）。事実確認の主要項目は Wikipedia 等で確定し fact-check.md に反映済み。noteへの公開・販売・下書き作成は未実施。次はオーナーレビュー→DeepReview。**
 
 - 2026-10-24：GitHubコネクタ接続完了（オーナーが全リポジトリを選択）。テキスト5ファイル（README/CANON/STATUS/manuscript/0.md/research/fact-check.md）をリポジトリ `products/31-alphago-move-37-78/` へプッシュ済み（commit 42543fd）。サムネイル画像（.webp、バイナリ）はこの経路では送れないためローカルのみに保持。
 - 素材：NotebookLM「AAMT_studio-maane」（ソース39件）を確認済み（2026-10-24）。AlphaGo関連は5件で、要点を research/notebooklm-sources.md に取り込み済み。李世乭の発言の引用は原文確認が済むまで直接引用しない。
