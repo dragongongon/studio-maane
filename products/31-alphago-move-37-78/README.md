@@ -6,7 +6,8 @@
 
 ## 原稿一覧
 
-- [manuscript/0.md](./manuscript/0.md)：導入＋第1部「第37手」
+- [manuscript/0.md](./manuscript/0.md)：導入
+- [manuscript/1.md](./manuscript/1.md)：第1部「第37手」
 - [manuscript/2.md](./manuscript/2.md)：第2部「第78手」
 - [manuscript/3.md](./manuscript/3.md)：第3部「その後の10年」
 - [manuscript/4.md](./manuscript/4.md)：有料候補「棋譜で読む、37手目と78手目」＋伝説を検証するチェックリスト
