@@ -8,7 +8,7 @@
 
 - 2026-10-24：GitHubコネクタ接続完了（オーナーが全リポジトリを選択）。テキスト5ファイル（README/CANON/STATUS/manuscript/0.md/research/fact-check.md）をリポジトリ `products/31-alphago-move-37-78/` へプッシュ済み（commit 42543fd）。サムネイル画像（.webp、バイナリ）はこの経路では送れないためローカルのみに保持。
 - 素材：NotebookLM「AAMT_studio-maane」（ソース39件）を確認済み（2026-10-24）。AlphaGo関連は5件で、要点を research/notebooklm-sources.md に取り込み済み。李世乭の発言の引用は原文確認が済むまで直接引用しない。
-- サムネイル：Muse の画像生成で叩き台1点を作成済み（thumbnails/、Meta AIへの依頼は不要）。左下で光る黒石＝第37手、中央の黒の陣形に食い込む白石＝第78手、という構図。
+- サムネイル：Muse の画像生成で2点作成し、オーナーが手動でリポジトリへ保存済み（2026-10-24）：`thumbnail/free.webp`（無料部用ベース、左下で光る黒石＝第37手＋中央の白石＝第78手）と `thumbnail/charge.webp`（有料パート用、中央の白石に寄った構図）。話数などの文字入れはタイトル確定後、note下書き作成時に行う。
 - 価格：未定（500円が候補、未確定）。
 
 ## 次に行う作業（優先順）
