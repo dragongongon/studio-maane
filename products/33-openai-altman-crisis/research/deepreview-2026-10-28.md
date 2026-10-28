@@ -178,3 +178,28 @@ Minor — Omission of 'Action Management' (対策の管理) in Part 2 filled-in 
 Major — Unaddressed stalled functions in Steps 1–2 of Company B case and sample — Lines 245–246: In Step 1 of the Company B walkthrough (L0200), a 30-day absence of CTO K氏 halts three specific operations: incident response (障害対応), billing data corrections (請求まわりのデータ修正), and renewal negotiations with major clients (大型顧客の更新交渉). In the Part 2 filled-in sample for Step 1 (L0245), 請求まわりのデータ修正 is omitted without explanation. More importantly, in Step 2 of both the narrative (L0200) and the sample (L0246), a deputy (若手リーダー) and authority transfer are designated only for cloud infrastructure administration, leaving unaddressed who takes over 大型顧客の更新交渉 (despite L0198 emphasizing that K氏 personally built the relationships with the three major clients) and 請求まわりのデータ修正. Relatedly, the Part 1 template for Step 2 (L0218–L0221) provides only a single slot for a deputy (不在時の代行者), whereas Step 1 (L0162) divides dependencies into information, relationships, and approvals—functions that in practice often require different delegates (e.g., an engineering lead for infrastructure vs. the CEO/COO for major client negotiations). Consider aligning L0200 and L0245–L0246 so that all stalled functions identified in Step 1 have a corresponding fallback owner in Step 2 (and allow multiple functional deputies in L0220). 引用：ステップ1：K氏（CTO）／インフラ運用・障害対応・請求データ修正・主要顧客の技術窓口／障害対応・請求まわりのデータ修正・更新交渉が停止／代わりは若手リーダー（インフラ・データ修正、訓練中）および代表・COO（主要顧客の更新交渉） ステップ2：キーマンはK氏。代行者は若手リーダー（技術・運用）および代表・COO（大型顧客の窓口）。クラウド管理者権限を個人アカウントから会社管理のアカウント＋個別権限へ移行済み（緊急時のアクセス手順も文書化）、主要3社の技術担当者へ代表・COOを副窓口として紹介済み
 
 Minor — Conceptual mismatch between medical emergency and decision explainability check in Step 5 — Line 249: To address the fourth structural failure (L0138, lack of procedural legitimacy in discretionary governance decisions), Step 5 (L0188–L0190) and the worksheet (L0235) introduce a mandatory gate check: 決定の理由を「関係者全員に説明できるか」の点検：はい／いいえ. However, in the Company B walkthrough (L0200) and filled-in sample (L0249), the crisis scenario modeled in Step 5 is CTO K氏's sudden illness (K氏の急病を想定した初動手順). Because a sudden illness is an involuntary contingency rather than an organizational decision (決定), answering 理由の説明可能性の点検は「はい」 in L0249 is conceptually mismatched with the scenario unless the text clarifies what "decision" is being evaluated (e.g., the decision to transition to an interim technical regime or the scope of external disclosure). Consider clarifying in L0235 and L0249 how the explainability check applies during an acute illness scenario (or incorporating a governance decision scenario such as the technical regime change referenced in L0248).
+
+## 反映記録（2026-10-29、オーナー指示「反映して」により実施）
+
+上記の検査結果を受け、オーナー指示で原稿（manuscript/0.md・1.md）へ反映した。各指摘への対応は以下のとおり。タイトル・価格（¥1,500）・公開・note下書きには一切触れていない。解任理由は「諸説あり」の留保表現を維持し、fact-check.md で未確認の項目を断定へ格上げしていない。なお、DeepReview の指摘文中の「引用」には修正後の文面が示されていたものが複数あったが、現行原稿と1件ずつ照合した結果、いずれも未反映だったため、すべて実際に修正した（既に対応済みだった指摘は無し）。
+
+| # | 区分 | 指摘 | 対応 | 内容 |
+|---|---|---|---|---|
+| 1 | Major | ステップ1–2（継続計画）とステップ3–5（ガバナンス正統性）の概念区別 | 採用 | 1.md フレームワーク導入部に、2領域の性質の違い（本人の意思によらない不在への備え vs 組織の決定の正統性の設計。束ねられた機能は権限委譲の文書だけでは移せない）の一節を追加 |
+| 2 | Major | 対立型解任における秘密保持・反撃動員・名誉毀損の制約 | 採用 | 1.md ステップ4に、根回しが反撃の準備期間になりうる旨と「誰に何を伝えたか」の内部記録の注意書きを追加。ステップ5に、対外説明の粒度と名誉毀損・プライバシーの線引き（公表は検証可能な事実と手続きの範囲に絞り、詳細な根拠は内部の検証記録として残す）を追加 |
+| 3 | Major | ステップ3のバイパス報告経路が成果物側から欠落 | 採用 | 1.md 本文ステップ3の出力を「項目と期限、トップを経由しない報告先を含む」に変更。ワークシート第1部ステップ3に「トップ自身（または対象キーマン）が当事者の場合のバイパス報告・相談先」の項目行を追加。通し実例と第2部記入例にも対応する記入（K氏を経由しない代表・顧問弁護士への経路）を追加 |
+| 4 | Major | B社ケースのステップ1–2で停止機能への代行者が未対応 | 採用 | 1.md 通し実例のステップ2を機能別代行者（障害対応・請求まわりのデータ修正＝若手リーダー、大型顧客の更新交渉＝代表・COOの副窓口）に書き換え。第2部ステップ1記入例に落ちていた「請求まわりのデータ修正」を機能・停止内容の両方に復活させ、ステップ2記入例を機能別代行者に改めた。第1部ステップ2テンプレートの代行者欄を「機能ごとに複数可」に変更 |
+| 5 | Minor | 「その週」の時系列混同（11月6日の週と11月16–17日） | 採用 | 0.md を「翌週にはサンフランシスコで開かれたAPECの関連行事にも登壇した」に修正 |
+| 6 | Minor | ビデオ通話／ビデオ会議の用語不統一 | 採用 | 1.md 冒頭の「1本のビデオ会議」を「1本のビデオ通話」に統一 |
+| 7 | Minor | 「CEO経由でしか入らない」の絶対表現 | 採用 | 1.md 断絶1を「日々の経営情報の多くは、監視される側のCEO経由に偏っていた」に、ステップ3の記述を「監視される側経由に偏っていた構造」に緩和 |
+| 8 | Minor | ステップ1「よくある失敗」の文法的な曖昧さ | 採用 | 1.md を提案文どおり「止まるものは曖昧な「業務」ではなく、「具体的な締切と支払い」で書く」に修正 |
+| 9 | Minor | 代表取締役の対外的効力と定期見直しの間隔 | 採用 | 1.md ステップ2に、単独の代表取締役の場合は代理人届・委任状・複数代表制などの対外手続きを事前確認する旨の括弧書きを追加。ワークシート第1部「対策の管理」に「次回の見直し時期」の欄を追加し、第2部記入例にも反映 |
+| 10 | Minor | ワークシート第2部に「対策の管理」の記入例がない | 採用 | 1.md ワークシート第2部の末尾に「対策の管理」の記入済みサンプル（B社）を追加 |
+| 11 | Minor | ステップ5の説明可能性チェックが評価する「決定」の不明確さ | 採用 | 1.md ステップ5の「よくある失敗」に、決定とは暫定体制への移行や対外公表の範囲など組織が自ら下す判断である旨（事故や急病そのものは決定ではない）を追記。ワークシート第1部の点検項目と第2部ステップ5記入例も、対象が組織の決定である形に明確化 |
+| 12 | Suggestion | 有料部冒頭の公式声明の重複（L0080／L0084） | 採用 | 1.md「たった一つの理由」冒頭の重複した声明告知文を削除し、「その短い声明の要旨は、こうだった」に整理 |
+| 13 | Suggestion | 先行文献への位置づけ | 軽量採用 | 1.md フレームワーク導入部に、Caremark判決・ISO 22301・バス因子研究など既存の知見と地続きである旨を数行で追加。長い文献リスト自体は入れていない |
+
+### 見送り・判断保留（オーナー最終確認時の判断材料）
+
+- **#13 の文献リスト全文の掲載**: 見送り（軽量採用）。Harvard Law Review や Adams & Ferreira、ISO 22301 等の文献リストをそのまま載せると実践記事の性格が変わるため、代表的な知見への言及に留めた。学術的な裏付けを厚くしたい場合は、最終確認で追加を判断できる。
+- その他の指摘で見送りとしたものは無い（Major 4件・Minor 7件・Suggestion 1件は全採用、Suggestion 1件は軽量採用）。
